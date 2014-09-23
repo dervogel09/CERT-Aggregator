@@ -1,0 +1,1601 @@
+ID: Kurzinfo CB-K14/1023
+Title: WordPress: Mehrere Schwachstelle erm&ouml;glichen Cross-Site-Scripting
+Manufactorer: null
+Product Name: Fisch
+Product Version: null
+Operating System: Debian Linux 7.6 Wheezy
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: WordPress ist ein weit verbreitetes Content Management System für Web-Blogs. Mehrere Schwachstellen in WordPress ermöglichen es einem entfernten, nicht authentisierten Angreifer Informationen auszuspähen, Cross-Site-Request-Forgery Schutzmaßnahmen zu überwinden und Cross-Site-Scripting-Angriffe durchzuführen. Debian Wheezy 7.6 stellt ein Sicherheitsupdate zur Verfügung. Schwachstelle CVE-2014-2053 (NVD) Debian Security Advisory DSA-3001-1 Schwachstelle CVE-2014-5204 (NVD) Schwachstelle CVE-2014-5205 (NVD) Schwachstelle CVE-2014-5240 (NVD)
+Degree of Danger:  niedrig
+Cause: null
+Result: Cross-Site-Scripting
+Solution: null
+Reference: Debian Security Advisory DSA-3001-1
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1021
+Title: JBoss Enterprise Portal Platform: Zwei Schwachstellen erm&ouml;glichen die Ausf&uuml;hrung beliebigen Programmcodes
+Manufactorer: null
+Product Name: Red Hat Directory Server 8.0
+Product Version: null
+Operating System: RedHat jBoss Enterprise Portal Platform
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Die JBoss Enterprise Portal Platform (JBoss EPP) ist eine Software zur Entwicklung und zum Betrieb von Webportalen. Zwei Schwachstellen in Komponenten der JBoss Enterprise Portal Platform ermöglichen einem entfernten, nicht authentisierten Angreifer beliebigen Programmcode zur Ausführung zu bringen. Schwachstelle CVE-2013-7285 (NVD) Schwachstelle CVE-2014-0107 (NVD) Red Hat Security Advisory RHSA-2014:1059
+Degree of Danger:  hoch
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Red Hat Security Advisory RHSA-2014:1059
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1019
+Title: Red Hat Fedora: Eine Schwachstelle erm&ouml;glicht vermutlich das Ausf&uuml;hren beliebigen Programmcodes
+Manufactorer: null
+Product Name: Red Hat Fedora 19, Red Hat Fedora 20
+Product Version: null
+Operating System: Red Hat Fedora
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Fedora (vorher Fedora Core) ist eine Linux-Distribution, die aus dem ehemaligen Red Hat Linux (RHL) entstanden ist. Es existiert eine nicht näher beschriebene Schwachstelle im Point-to-Point Protokoll Daemon, die vermutlich von einem entfernten Angreifer genutzt werden kann, um beliebigen Programmcode auszuführen. Red Hat Fedora hat für die Versionen 19 und 20 Sicherheitsupdate bereitgestellt. Fedora Security Update FEDORA-2014-9401 Fedora Security Update FEDORA-2014-9412 Schwachstelle CVE-2014-3158 (NVD)
+Degree of Danger:  mittel
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Fedora Security Update FEDORA-2014-9412
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0982 Update 2
+Title: Red Hat Directory Server: Eine Schwachstelle erm&ouml;glicht das Aussp&auml;hen von Informationen
+Manufactorer: null
+Product Name: Apache Software Foundation Struts &lt;= 1.3.10, RedHat JBoss Fuse 6.1.0, RedHat Fuse ESB Enterprise 7.1.0
+Product Version: null
+Operating System: Red Hat Directory Server, Red Hat Enterprise Linux Desktop 6, Red Hat Enterprise Linux Desktop 7, Red Hat Enterprise Linux HPC Node 6, Red Hat Enterprise Linux HPC Node 7, Red Hat Enterprise Linux Server 6, Red Hat Enterprise Linux Server 6.5 AUS, Red Hat Enterprise Linux Server 6.5.z EUS, Red Hat Enterprise Linux Server 7, Red Hat Enterprise Linux Workstation 6, Red Hat Enterprise Linux Workstation 7, Red Hat Fedora 20, Extra Packages for Red Hat Enterprise Linux 5
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Der 389 Directory Server von Red Hat ist ein LDAPv3 konformer Server, der in der Basisversion den Lightweight Directory Access Protocol (LDAP) Server und Kommandozeilen-Tools für die Server Administration bereitstellt. Ein entfernter, nicht authentisierter Angreifer kann diese Schwachstelle dazu ausnutzen Informationen auszuspähen. Update: Für Fedora 20 steht ein neues Sicherheitsupdate bereit, welches das ursprünglich veröffentlichte Update für Fedora 20 ersetzt. Red Hat Security Advisory RHSA-2014:1031 Red Hat Security Advisory RHSA-2014:1032 Schwachstelle CVE-2014-3562 (NVD) Fedora Security Update FEDORA-EPEL-2014-2184 Fedora Security Update FEDORA-2014-9391
+Degree of Danger:  niedrig
+Cause: null
+Result: Aussp&auml;hen von Informationen
+Solution: null
+Reference: Red Hat Security Advisory RHSA-2014:1032
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0537 Update 3
+Title: Apache Struts: Eine Schwachstelle erm&ouml;glicht das Ausf&uuml;hren beliebigen Programmcodes
+Manufactorer: null
+Product Name: Pixman &lt;= 0.30.2
+Product Version: null
+Operating System: SUSE Software Development Kit 11 SP3 Enterprise, SUSE Manager Server, SUSE Manager 1.7 for SLE 11 SP2, Red Hat Network Satellite 5.4, Red Hat Network Satellite 5.5, Red Hat Network Satellite 5.6, Red Hat Enterprise Linux 5 Server, Red Hat Enterprise Linux Desktop 5 Workstation/Client, Red Hat Fedora 20
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Struts ist ein Framework für die Präsentations- und Steuerungsschicht von javabasierten Webanwendungen. Es stammt von der Apache Software Foundation und ist open source. Red Hat JBoss Fuse basiert auf Apache ServiceMix und bietet eine Integrationsplattform. Fuse ESB Enterprise ist eine Integrationsplattform von Red Hat. Sie basiert auf dem Apache ServiceMix und ist als Open Source Software verfügbar. Durch eine Schwachstelle in Apache Struts kann ein entfernter, nicht authentifizierter Angreifer beliebigen Code zur Ausführung bringen. Update: Für die Distribution Fedora 20 steht ein Sicherheitspatch bereit. Schwachstelle CVE-2014-0114 (NVD) Red Hat Security Advisory RHSA-2014:0474-1 Red Hat Security Advisory RHSA-2014:0497 Red Hat Security Advisory RHSA-2014:0498 Red Hat Security Advisory RHSA-2014:0500 SUSE Security Update: SUSE-SU-2014:0902-1 Fedora Security Update FEDORA-2014-9380
+Degree of Danger:  mittel
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Red Hat Security Advisory RHSA-2014:0474-1
+
+
+ ------
+
+ID: Kurzinfo CB-K13/1075 Update 5
+Title: Pixman: Eine Schwachstelle erm&ouml;glicht das Ausf&uuml;hren beliebigen Programmcodes
+Manufactorer: null
+Product Name: OpenSSL Project OpenSSL &lt;= 0.9.8S, OpenSSL Project OpenSSL &lt;= 1.0.0F
+Product Version: null
+Operating System: SUSE Software Development Kit 11 SP2 Enterprise, SUSE Software Development Kit 11 SP3 Enterprise, Debian Linux 6.0.8 Squeeze, Debian Linux 7.2 Wheezy, openSUSE 12.2, openSUSE 12.3, openSUSE 13.1, SUSE Linux Enterprise Desktop 11 SP2, SUSE Linux Enterprise Desktop 11 SP3, SUSE Linux Enterprise Server 11 SP2, SUSE Linux Enterprise Server 11 SP2 VMware, SUSE Linux Enterprise Server 11 SP3, SUSE Linux Enterprise Server 11 SP3 VMware, Red Hat Enterprise Linux 6 Server, Red Hat Enterprise Linux 6 Workstation, Red Hat Enterprise Linux Desktop 5 Client, Red Hat Enterprise Linux Desktop 6.0, Red Hat Enterprise Linux HPC Node 6.0, Red Hat Fedora 19, Red Hat Fedora 20
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Pixman ist eine Software-Bibliothek in der Sprache C, die Funktionen zur Manipulation von Pixeln zur Verfügung stellt. Eine Schwachstelle ermöglicht einem entfernten, nicht authentifizierten Angreifer einen Denial-of-Service-Zustand zu erreichen oder beliebigen Programmcode auszuführen. Update: Für die Distributionen Fedora 19 und Fedora 20 stehen weitere Sicherheitsupdates bereit, das Update FEDORA-2014-9037 für Fedora 19 ist mittlerweile obsolet. Schwachstelle CVE-2013-6425 (NVD) Debian Security Advisory DSA-2823 Red Hat Security Advisory RHSA-2013-1869 openSUSE-SU-2014:0007-1 (12.3) openSUSE-SU-2014:0011-1 (12.2) openSUSE-SU-2014:0014-1 (13.1) SUSE Security Update SUSE-SU-2014:0023-1 Fedora Security Update FEDORA-2014-6825 Fedora Security Update FEDORA-2014-6829 Fedora Security Update FEDORA-2014-9063 Fedora Security Update FEDORA-2014-9359 Fedora Security Update FEDORA-2014-9399
+Degree of Danger:  hoch
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Debian Security Advisory DSA-2823
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1017
+Title: F5 Networks BIG-IP Protocol Security Module (PSM), OpenSSL: Eine Schwachstelle erm&ouml;glicht Denial-of-Service-Angriffe
+Manufactorer: null
+Product Name: GNU GPGME &lt;= 1.0
+Product Version: null
+Operating System: F5 Networks BIG-IP Protocol Security Module (PSM) &gt;= 10.0.0, F5 Networks BIG-IP Protocol Security Module (PSM) &lt;= 10.2.4, F5 Networks BIG-IP Protocol Security Module (PSM) &gt;= 11.0.0, F5 Networks BIG-IP Protocol Security Module (PSM) &lt;= 11.4.1
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: OpenSSL ist eine freie Software, die kryptographische Funktionen und Protokolle implementiert. Bestandteil ist auch das TLS-Protokoll (Transport Layer Security). Es wurde ursprünglich als Secure Socket Layer entwickelt und ist immer noch unter dem Namen SSL bekannt. Eine Schwachstelle in OpenSSL ermöglicht einem entfernten und nicht authentisierten Angreifer die Durchführung von Denial-of-Service-Angriffen. Von der Schwachstelle sind alle obigen Big-IP PSM Versionen betroffen, mit Ausnahme der Versionen 11.2.0 bis 11.4.1 sofern das Konfigurationstool genutzt wird. Schwachstelle CVE-2011-4619 (NVD) F5 Networks Security Advisory sol15461
+Degree of Danger:  niedrig
+Cause: null
+Result: Denial-of-Service
+Solution: null
+Reference: F5 Networks Security Advisory sol15461
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1004 Update 2
+Title: Adobe Flash Player und Adobe AIR: Mehrere Schwachstellen erm&ouml;glichen die Ausf&uuml;hrung beliebigen Programmcodes
+Manufactorer: null
+Product Name: Adobe Integrated Runtime (AIR) &lt;= 14.0.0.110, Adobe Integrated Runtime (AIR) &lt;= 14.0.0.137, Adobe Integrated Runtime (AIR) Software Development Kit (SDK) &lt;= 14.0.0.137, Adobe Integrated Runtime (AIR) Software Development Kit (SDK) mit Compiler &lt;= 14.0.0.137, Adobe Flash Player &lt;= 14.0.0.145, Adobe Flash Player for Linux &lt;= 11.2.202.394
+Product Version: null
+Operating System: Apple Mac OS X, GNU/Linux, Google Android Operating System, Microsoft Windows , openSUSE 12.3, openSUSE 13.1, Red Hat Enterprise Linux Desktop Supplementary 5 Client, Red Hat Enterprise Linux Desktop Supplementary 6, Red hat Enterprise Linux Server Supplementary 5, Red hat Enterprise Linux Server Supplementary 6, Red hat Enterprise Linux Server Supplementary 6.5 AUS, Red hat Enterprise Linux Server Supplementary 6.5.Z EUS, Red Hat Enterprise Linux Workstation Supplementary 6
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Mit dem Flash Player werden multimediale aktive Inhalte wiedergegeben. Das Programm ist integraler Bestandteil zahlreicher Adobe Produkte. Adobe Integrated Runtime (AIR) Software Development Kit (SDK) mit Compiler stellt Entwicklungswerkzeuge zur Verfügung, um auf Internettechnologien wie z.B. HTML und Adobe Flash basierende AIR-Anwendungen zu entwickeln. Es wurde von Adobe Integrated Runtime (AIR) Software Development Kit (SDK) umbenannt, nachdem ein Compiler hinzugefügt wurde. Mehrere Schwachstellen in Adobe Flash Player und Adobe AIR ermöglichen einem entfernten, nicht authentifizierten Angreifer beliebigen Programmcode auszuführen, Sicherheitsmechanismen und Zugriffsbeschränkungen zu umgehen. Update: Für openSUSE 12.3 sowie 13.1 stehen Sicherheitsupdates zur Verfügung. Adobe Security Advisory APSB14-18 Red Hat Security Advisory RHSA-2014:1051 Schwachstelle CVE-2014-0538 (NVD) Schwachstelle CVE-2014-0540 (NVD) Schwachstelle CVE-2014-0541 (NVD) Schwachstelle CVE-2014-0542 (NVD) Schwachstelle CVE-2014-0543 (NVD) Schwachstelle CVE-2014-0544 (NVD) Schwachstelle CVE-2014-0545 (NVD) SUSE Security Update: openSUSE-SU-2014:1020-1
+Degree of Danger:  hoch
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes mit Benutzerrechten
+Solution: null
+Reference: Adobe Security Advisory APSB14-18
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0988 Update 1
+Title: OpenSSL: Mehrere Schwachstellen erlauben verschiedene Angriffe
+Manufactorer: null
+Product Name: OpenSSL Project OpenSSL 1.0.1E
+Product Version: null
+Operating System: Red Hat Enterprise Linux Desktop 6, Red Hat Enterprise Linux Desktop 7, Red Hat Enterprise Linux HPC Node 6, Red Hat Enterprise Linux HPC Node 7, Red Hat Enterprise Linux Server 6, Red Hat Enterprise Linux Server 6.5 AUS, Red Hat Enterprise Linux Server 6.5.z EUS, Red Hat Enterprise Linux Server 7, Red Hat Enterprise Linux Workstation 6, Red Hat Enterprise Linux Workstation 7, Red Hat Fedora 19, Red Hat Fedora 20
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: OpenSSL ist eine freie Software, die kryptographische Funktionen und Protokolle implementiert. Bestandteil ist auch das TLS-Protokoll (Transport Layer Security). Es wurde ursprünglich als Secure Socket Layer entwickelt und ist immer noch unter dem Namen SSL bekannt. Mehrere Schwachstellen in OpenSSL ermöglichen einem zumeist entfernten, nicht authentifizierten Angreifer das System in einen Denial-of-Service-Zustand zu versetzen, einen Man-in-the-Middle-Angriff durchzuführen, beliebigen Programmcode zur Ausführung zu bringen oder Informationen auszuspähen. Für Fedora 19 und Fedora 20 stehen Sicherheitsupdates der Version OpenSSL 1.0.1 zur Verfügung, welche die Schwachstellen über Backports behebt. Update: Für verschiedene Red Hat Enterprise Linux 6 und 7 Produkte stehen Sicherheitsupdates für die über Backports korrigierte OpenSSL 1.0.1e Version zur Verfügung. Schwachstelle CVE-2014-3505 (NVD) Schwachstelle CVE-2014-3506 (NVD) Schwachstelle CVE-2014-3507 (NVD) Schwachstelle CVE-2014-3508 (NVD) Schwachstelle CVE-2014-3509 (NVD) Schwachstelle CVE-2014-3510 (NVD) Schwachstelle CVE-2014-3511 (NVD) Fedora Update FEDORA-2014-9301 Fedora Update FEDORA-2014-9308 Red Hat Security Advisory RHSA-2014:1052
+Degree of Danger:  mittel
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Fedora Update FEDORA-2014-9301
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1014
+Title: Puppet Labs Puppet Enterprise: Eine Schwachstelle erm&ouml;glicht das Umgehen von Sicherheitsvorkehrungen
+Manufactorer: null
+Product Name: Puppet Labs MCollective &lt;= 2.5.2, Puppet Enterprise &lt;= 2.8.0, Puppet Enterprise &lt;= 3.2.0
+Product Version: null
+Operating System: Puppet Labs MCollective, Puppet Enterprise
+Date of Creation: Mon Jan 13 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Nein
+Language: de
+Description: Mit dem MCollective Framework von Puppet Labs können parallele Job-Ausführungs- oder Server-Orchestrierungs-Systeme gebaut werden. Puppet Enterprise ist eine Software der Firma Puppet Labs für die automatische Konfiguration und Verteilung von Software sowie Lifecycle Management und Reporting. Die Enterprise Version enthält u.a. Support und ist nur gegen Lizenzgebühren zu erhalten. Durch eine Schwachstelle im MCollective Plugin "aes_security" kann ein lokaler, mehrfach authentifizierter Angreifer Sicherheitsvorkehrungen umgehen. Puppet Labs Security Advisory CVE-2014-3251 Schwachstelle CVE-2014-3251 (NVD)
+Degree of Danger:  niedrig
+Cause: null
+Result: Umgehen von Sicherheitsvorkehrungen
+Solution: null
+Reference: Puppet Labs Security Advisory CVE-2014-3251
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1022
+Title: Apache Subversion: Eine Schwachstelle erm&ouml;glicht Man-in-the-Middle-Angriffe
+Manufactorer: null
+Product Name: Apache Subversion
+Product Version: null
+Operating System: Red Hat Fedora 20
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Apache Subversion (SVN) von der Apache Software Foundation ist eine freie Software zur Versionsverwaltung von Dateien und Verzeichnissen. Eine schwer auszunutzende Schwachstelle bezüglich der Zertifikatsbehandlung in Subversion ermöglicht einem entfernten, nicht authentisierten Angreifer die Durchführung von Man-in-the-Middle-Angriffen. Schwachstelle CVE-2014-3504 (NVD) Fedora Security Update FEDORA-2014-9367
+Degree of Danger:  niedrig
+Cause: null
+Result: Umgehen von Sicherheitsvorkehrungen
+Solution: null
+Reference: Fedora Security Update FEDORA-2014-9367
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1020
+Title: Apache Subversion: Mehrere Schwachstellen erlauben verschiedene Angriffe
+Manufactorer: null
+Product Name: Apache Subversion
+Product Version: null
+Operating System: Canonical Ubuntu Linux 12.04 Lts, Canonical Ubuntu Linux 14.04 Lts
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Apache Subversion (SVN) von der Apache Software Foundation ist eine freie Software zur Versionsverwaltung von Dateien und Verzeichnissen. Es bestehen mehrere Schwachstellen in Apache Subversion, die von einem entfernten, nicht authentisierten Angreifer zumeist mit hohem Aufwand für Man-in-the-Middle-Angriffe und das Ausspähen von Informationen oder das Bewirken eines Denial-of-Service-Zustandes genutzt werden können. Schwachstelle CVE-2014-0032 (NVD) Schwachstelle CVE-2014-3504 (NVD) Schwachstelle CVE-2014-3522 (NVD) Schwachstelle CVE-2014-3528 (NVD) Ubuntu Security Notice USN-2315-1 Ubuntu Security Notice USN-2316-1
+Degree of Danger:  niedrig
+Cause: null
+Result: Denial-of-Service
+Solution: null
+Reference: Ubuntu Security Notice USN-2316-1
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1012 Update 1
+Title: SKS Keyserver: Eine Schwachstelle erm&ouml;glicht Cross-Site-Scripting (XSS)
+Manufactorer: null
+Product Name: SKS Keyserver &lt;= 1.1.4
+Product Version: null
+Operating System: Red Hat Fedora 19, Red Hat Fedora 20, Extra Packages for Red Hat Enterprise Linux 6
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Der SKS Keyserver ist ein öffentlicher Schlüsselserver. Durch eine Schwachstelle im SKS Keyserver kann ein entfernter, nicht authentifizierter Angreifer beliebige Webskripte oder HTML-Code mithilfe von PATH_INFO in "pks/lookup/undefined1" injizieren. Update: Für Fedora 19 und Fedora 20 stehen Sicherheitsupdates zur Verfügung. Schwachstelle CVE-2014-3207 (NVD) Fedora Security Update FEDORA-EPEL-2014-2185 Fedora Security Update FEDORA-2014-9344 Fedora Security Update FEDORA-2014-9350
+Degree of Danger:  niedrig
+Cause: null
+Result: Cross-Site-Scripting
+Solution: null
+Reference: Fedora Security Update FEDORA-EPEL-2014-2185
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0980 Update 1
+Title: GPGME: Eine Schwachstelle erm&ouml;glicht Denial-of-Service-Angriffe und das Ausf&uuml;hren beliebigen Programmcodes
+Manufactorer: null
+Product Name: fish shell &gt;= 1.16.0, fish shell &lt;= 2.1.0
+Product Version: null
+Operating System: Canonical Ubuntu Linux 10.04 Lts, Canonical Ubuntu Linux 12.04 Lts, Canonical Ubuntu Linux 14.04 Lts, Debian Linux 7.6 Wheezy, Debian Linux 8.0 Jessie
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Die Bibliothek GnuPG Made Easy (GPGME) bietet eine High-Level-API für Verschlüsselung, Entschlüsselung, Signierung, Signaturprüfung und Schlüsselverwaltung und soll den Zugriff auf GnuPG für Anwendungen vereinfachen. Ein entfernter, nicht authentifizierter Angreifer kann Anwendungen, die GPGME nutzen, zum Absturz bringen und somit Denial-of-Service-Angriff durchführen oder beliebigen Programmcode zur Ausführung bringen. Update: Für die Distributionen Debian Wheezy und Debian Jessie stehen Sicherheitsupdates bereit. Ubuntu Security Notice USN-2307-1 Schwachstelle CVE-2014-3564 (NVD) Debian Security Advisory DSA-3005-1
+Degree of Danger:  niedrig
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Ubuntu Security Notice USN-2307-1
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0511 Update 1
+Title: fish shell: Mehrere Schwachstellen erm&ouml;glichen Privilegieneskalation sowie Ausf&uuml;hrung beliebigen Programmcodes
+Manufactorer: null
+Product Name: Red Hat Directory Server 8.0
+Product Version: null
+Operating System: Red Hat Fedora 19, Red Hat Fedora 20
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Die fish shell (Friendly Interactive Shell) ist eine Kommandozeile mit zusätzliche Features. Es bestehen mehrere Schwachstellen in der fish shell. Lokale sowie entfernte Angreifer können ihre Privilegien ausweiten und beliebigen Programmcode ausführen. Update: Der Hersteller stellt für die Distributionen Fedora 19 und Fedora 20 verbesserte Sicherheitsupdates für die Schwachstellen CVE-2014-2905 und CVE-2014-2914 zur Verfügung. Fedora Update FEDORA-2014-5783 Fedora Update FEDORA-2014-5794 Schwachstelle CVE-2014-2905 (NVD) Schwachstelle CVE-2014-2906 (NVD) Schwachstelle CVE-2014-2914 (NVD) Fedora Security Update FEDORA-2014-9402 Fedora Security Update FEDORA-2014-9407
+Degree of Danger:  niedrig
+Cause: null
+Result: Privilegieneskalation
+Solution: null
+Reference: Fedora Update FEDORA-2014-5783
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1018
+Title: Apple Safari: Mehrere Schwachstellen erlauben das Ausf&uuml;hren beliebigen Programmcodes und Denial-of-Service-Angriffe
+Manufactorer: null
+Product Name: Apple Safari &lt;= 6.1.5, Apple Safari &lt;= 7.0.5
+Product Version: null
+Operating System: Apple Mac OS X 10.7.5, Apple Mac OS X 10.8.5, Apple Mac OS X 10.9.4, Apple Mac OS X Server 10.7.5
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Der Web-Browser Safari wurde von Apple für MAC OS X entwickelt. Mehrere Schwachstellen in WebKit, welches von Apple Safari genutzt wird, erlauben einem entfernten, nicht authentisierten Angreifer die Durchführung von Denial-of-Service-Angriffen sowie die Ausführung beliebigen Programmcodes, sofern es dem Angreifer gelingt, den Benutzer auf eine manipulierte WebSeite zu locken. Apple Security Advisory Apple-ADV-HT6367 Schwachstelle CVE-2014-1384 (NVD) Schwachstelle CVE-2014-1385 (NVD) Schwachstelle CVE-2014-1386 (NVD) Schwachstelle CVE-2014-1387 (NVD) Schwachstelle CVE-2014-1388 (NVD) Schwachstelle CVE-2014-1389 (NVD) Schwachstelle CVE-2014-1390 (NVD)
+Degree of Danger:  niedrig
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Apple Security Advisory Apple-ADV-HT6367
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1016
+Title: OpenSSL: Mehrere Schwachstellen erm&ouml;glichen Denial-of-Service-Angriffe
+Manufactorer: null
+Product Name: OpenSSL Project OpenSSL 0.9.8E
+Product Version: null
+Operating System: Red Hat Enterprise Linux Desktop 5 Client, Red Hat Enterprise Linux Desktop 5 Workstation/Client, Red Hat Enterprise Linux Server 5
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: OpenSSL ist eine freie Software, die kryptographische Funktionen und Protokolle implementiert. Bestandteil ist auch das TLS-Protokoll (Transport Layer Security). Es wurde ursprünglich als Secure Socket Layer entwickelt und ist immer noch unter dem Namen SSL bekannt. Mehrere Schwachstellen in OpenSSL ermöglichen einem entfernten, nicht authentisierten Angreifer die Durchführung von Denial-of-Service-Angriffen. Eine Schwachstelle ermöglicht einem authentisierten Angreifer im benachbarten Netz das Ausspähen von Informationen. Für Red Hat Enterprise Linux 5 stehen Sicherheitsupdates zur Verfügung, welche die Schwachstellen über Backports beheben. Schwachstelle CVE-2014-0221 (NVD) Schwachstelle CVE-2014-3505 (NVD) Schwachstelle CVE-2014-3506 (NVD) Schwachstelle CVE-2014-3508 (NVD) Schwachstelle CVE-2014-3510 (NVD) Red Hat Security Advisory RHSA-2014:1053
+Degree of Danger:  niedrig
+Cause: null
+Result: Denial-of-Service
+Solution: null
+Reference: Red Hat Security Advisory RHSA-2014:1053
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0988 Update 2
+Title: OpenSSL: Mehrere Schwachstellen erlauben verschiedene Angriffe
+Manufactorer: null
+Product Name: OpenSSL Project OpenSSL 1.0.1E
+Product Version: null
+Operating System: Red Hat Enterprise Linux Desktop 6, Red Hat Enterprise Linux Desktop 7, Red Hat Enterprise Linux HPC Node 6, Red Hat Enterprise Linux HPC Node 7, Red Hat Enterprise Linux Server 6, Red Hat Enterprise Linux Server 6.5 AUS, Red Hat Enterprise Linux Server 6.5.z EUS, Red Hat Enterprise Linux Server 7, Red Hat Enterprise Linux Workstation 6, Red Hat Enterprise Linux Workstation 7, Red Hat Fedora 19, Red Hat Fedora 20, Red Hat Storage Server 2.1
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: OpenSSL ist eine freie Software, die kryptographische Funktionen und Protokolle implementiert. Bestandteil ist auch das TLS-Protokoll (Transport Layer Security). Es wurde ursprünglich als Secure Socket Layer entwickelt und ist immer noch unter dem Namen SSL bekannt. Mehrere Schwachstellen in OpenSSL ermöglichen einem zumeist entfernten, nicht authentifizierten Angreifer das System in einen Denial-of-Service-Zustand zu versetzen, einen Man-in-the-Middle-Angriff durchzuführen, beliebigen Programmcode zur Ausführung zu bringen oder Informationen auszuspähen. Für Fedora 19 und Fedora 20 stehen Sicherheitsupdates der Version OpenSSL 1.0.1 zur Verfügung, welche die Schwachstellen über Backports behebt. Update: Für Red Hat Storage Server 2.1 stehen Sicherheitsupdates für die über Backports korrigierte OpenSSL 1.0.1e Version zur Verfügung. Schwachstelle CVE-2014-3505 (NVD) Schwachstelle CVE-2014-3506 (NVD) Schwachstelle CVE-2014-3507 (NVD) Schwachstelle CVE-2014-3508 (NVD) Schwachstelle CVE-2014-3509 (NVD) Schwachstelle CVE-2014-3510 (NVD) Schwachstelle CVE-2014-3511 (NVD) Fedora Update FEDORA-2014-9301 Fedora Update FEDORA-2014-9308 Red Hat Security Advisory RHSA-2014:1052 Red Hat Security Advisory RHSA-2014:1054
+Degree of Danger:  mittel
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Fedora Update FEDORA-2014-9301
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1015
+Title: HP Operations Agent: Eine Schwachstelle erm&ouml;glicht Privilegieneskalation
+Manufactorer: null
+Product Name: Operations Agent 11.0
+Product Version: null
+Operating System: Oracle Solaris, Canonical Ubuntu Linux, CentOS, Debian Linux, HP-UX family of operating systems, IBM AIX, Microsoft Windows , SUSE Linux Enterprise Server, Oracle Linux, Red Hat Enterprise Linux
+Date of Creation: Mon Jan 13 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Nein
+Language: de
+Description: Der HP Operations-Agent ist ein Systemüberwachungstool für virtuelle und physikalische Systeme. Systemressourcen und die Leistungsfähigkeit kann damit überwacht werden. Ein lokaler, authentifizierter Angreifer kann, durch unbekannte Angriffsvektoren, seine Rechte erhöhen. Schwachstelle CVE-2014-2630 (NVD) HP Security Bulletin HPSBMU03086
+Degree of Danger:  niedrig
+Cause: null
+Result: Privilegieneskalation
+Solution: null
+Reference: HP Security Bulletin HPSBMU03086
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1013
+Title: Microsoft Windows: Mehrere Schwachstellen erm&ouml;glichen die &Uuml;bernahme des Systems
+Manufactorer: null
+Product Name: Microsoft .NET Framework 2.0 Sp2, Microsoft .NET Framework 3.0 Sp2, Microsoft .NET Framework 3.5, Microsoft .NET Framework 3.5.1
+Product Version: null
+Operating System: Microsoft Windows 7 Sp1 X64, Microsoft Windows 7 Sp1 X86, Microsoft Windows 8 X64, Microsoft Windows 8 X86, Microsoft Windows 8.1 X64, Microsoft Windows 8.1 X86, Microsoft Windows Server 2003 Sp2, Microsoft Windows Server 2003 Sp2 Itanium, Microsoft Windows Server 2003 Sp2 X64, Microsoft Windows RT, Microsoft Windows RT 8.1, Microsoft Windows Server 2008 Sp2 Itanium, Microsoft Windows Server 2008 Sp2 X64, Microsoft Windows Server 2008 Sp2 X86, Microsoft Windows Server 2008 R2 Sp1 Itanium, Microsoft Windows Server 2008 R2 Sp1 X64, Microsoft Windows Server 2012, Microsoft Windows Server 2012 R2, Microsoft Windows Vista Sp2, Microsoft Windows Vista Sp2 X64
+Date of Creation: Mon Jan 13 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: .NET (dot Net) ist eine Software-Plattform von Microsoft zur Entwicklung und Ausführung von Anwendungsprogrammen. Das Framework besteht aus einer Laufzeitumgebung, in der die Programme ausgeführt werden, einer Sammlung von Klassenbibliotheken, Programmierschnittstellen und Dienstprogrammen. Mehrere Schwachstellen in verschiedenen Windows-Komponenten ermöglichen einem lokal angemeldeten Angreifer Administratorenrechte zu erlangen und damit das Windows-Systems vollständig zu übernehmen. Zusätzlich ist es einem teilweise entfernten und nicht authentifizierten Angreifer möglich, die Ausführung beliebigen Programmcodes, das Ausspähen von Informationen, das Umgehen von Sicherheitsfunktionen oder Denial-of-Service-Angriffe zu bewirken. Microsoft Security Bulletin MS14-043 Microsoft Security Bulletin MS14-045 Microsoft Security Bulletin MS14-046 Microsoft Security Bulletin MS14-047 Microsoft Security Bulletin MS14-049 Schwachstelle CVE-2014-0316 (NVD) Schwachstelle CVE-2014-0318 (NVD) Schwachstelle CVE-2014-1814 (NVD) Schwachstelle CVE-2014-1819 (NVD) Schwachstelle CVE-2014-4060 (NVD) Schwachstelle CVE-2014-4062 (NVD) Schwachstelle CVE-2014-4064 (NVD)
+Degree of Danger:  hoch
+Cause: null
+Result: Erlangen von Administratorrechten
+Solution: null
+Reference: Microsoft Security Bulletin MS14-047
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1023
+Title: WordPress: Mehrere Schwachstelle erm&ouml;glichen Cross-Site-Scripting
+Manufactorer: null
+Product Name: Fisch
+Product Version: null
+Operating System: Debian Linux 7.6 Wheezy
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: WordPress ist ein weit verbreitetes Content Management System für Web-Blogs. Mehrere Schwachstellen in WordPress ermöglichen es einem entfernten, nicht authentisierten Angreifer Informationen auszuspähen, Cross-Site-Request-Forgery Schutzmaßnahmen zu überwinden und Cross-Site-Scripting-Angriffe durchzuführen. Debian Wheezy 7.6 stellt ein Sicherheitsupdate zur Verfügung. Schwachstelle CVE-2014-2053 (NVD) Debian Security Advisory DSA-3001-1 Schwachstelle CVE-2014-5204 (NVD) Schwachstelle CVE-2014-5205 (NVD) Schwachstelle CVE-2014-5240 (NVD)
+Degree of Danger:  niedrig
+Cause: null
+Result: Cross-Site-Scripting
+Solution: null
+Reference: Debian Security Advisory DSA-3001-1
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1021
+Title: JBoss Enterprise Portal Platform: Zwei Schwachstellen erm&ouml;glichen die Ausf&uuml;hrung beliebigen Programmcodes
+Manufactorer: null
+Product Name: RedHat jBoss Enterprise Portal Platform 5.2.2
+Product Version: null
+Operating System: RedHat jBoss Enterprise Portal Platform
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Die JBoss Enterprise Portal Platform (JBoss EPP) ist eine Software zur Entwicklung und zum Betrieb von Webportalen. Zwei Schwachstellen in Komponenten der JBoss Enterprise Portal Platform ermöglichen einem entfernten, nicht authentisierten Angreifer beliebigen Programmcode zur Ausführung zu bringen. Schwachstelle CVE-2013-7285 (NVD) Schwachstelle CVE-2014-0107 (NVD) Red Hat Security Advisory RHSA-2014:1059
+Degree of Danger:  hoch
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Red Hat Security Advisory RHSA-2014:1059
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1019
+Title: Red Hat Fedora: Eine Schwachstelle erm&ouml;glicht vermutlich das Ausf&uuml;hren beliebigen Programmcodes
+Manufactorer: null
+Product Name: Red Hat Fedora 19, Red Hat Fedora 20
+Product Version: null
+Operating System: Red Hat Fedora
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Fedora (vorher Fedora Core) ist eine Linux-Distribution, die aus dem ehemaligen Red Hat Linux (RHL) entstanden ist. Es existiert eine nicht näher beschriebene Schwachstelle im Point-to-Point Protokoll Daemon, die vermutlich von einem entfernten Angreifer genutzt werden kann, um beliebigen Programmcode auszuführen. Red Hat Fedora hat für die Versionen 19 und 20 Sicherheitsupdate bereitgestellt. Fedora Security Update FEDORA-2014-9401 Fedora Security Update FEDORA-2014-9412 Schwachstelle CVE-2014-3158 (NVD)
+Degree of Danger:  mittel
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Fedora Security Update FEDORA-2014-9412
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0982 Update 2
+Title: Red Hat Directory Server: Eine Schwachstelle erm&ouml;glicht das Aussp&auml;hen von Informationen
+Manufactorer: null
+Product Name: Red Hat Directory Server 8.0
+Product Version: null
+Operating System: Red Hat Directory Server, Red Hat Enterprise Linux Desktop 6, Red Hat Enterprise Linux Desktop 7, Red Hat Enterprise Linux HPC Node 6, Red Hat Enterprise Linux HPC Node 7, Red Hat Enterprise Linux Server 6, Red Hat Enterprise Linux Server 6.5 AUS, Red Hat Enterprise Linux Server 6.5.z EUS, Red Hat Enterprise Linux Server 7, Red Hat Enterprise Linux Workstation 6, Red Hat Enterprise Linux Workstation 7, Red Hat Fedora 20, Extra Packages for Red Hat Enterprise Linux 5
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Der 389 Directory Server von Red Hat ist ein LDAPv3 konformer Server, der in der Basisversion den Lightweight Directory Access Protocol (LDAP) Server und Kommandozeilen-Tools für die Server Administration bereitstellt. Ein entfernter, nicht authentisierter Angreifer kann diese Schwachstelle dazu ausnutzen Informationen auszuspähen. Update: Für Fedora 20 steht ein neues Sicherheitsupdate bereit, welches das ursprünglich veröffentlichte Update für Fedora 20 ersetzt. Red Hat Security Advisory RHSA-2014:1031 Red Hat Security Advisory RHSA-2014:1032 Schwachstelle CVE-2014-3562 (NVD) Fedora Security Update FEDORA-EPEL-2014-2184 Fedora Security Update FEDORA-2014-9391
+Degree of Danger:  niedrig
+Cause: null
+Result: Aussp&auml;hen von Informationen
+Solution: null
+Reference: Red Hat Security Advisory RHSA-2014:1032
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0537 Update 3
+Title: Apache Struts: Eine Schwachstelle erm&ouml;glicht das Ausf&uuml;hren beliebigen Programmcodes
+Manufactorer: null
+Product Name: Apache Software Foundation Struts &lt;= 1.3.10, RedHat JBoss Fuse 6.1.0, RedHat Fuse ESB Enterprise 7.1.0
+Product Version: null
+Operating System: SUSE Software Development Kit 11 SP3 Enterprise, SUSE Manager Server, SUSE Manager 1.7 for SLE 11 SP2, Red Hat Network Satellite 5.4, Red Hat Network Satellite 5.5, Red Hat Network Satellite 5.6, Red Hat Enterprise Linux 5 Server, Red Hat Enterprise Linux Desktop 5 Workstation/Client, Red Hat Fedora 20
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Struts ist ein Framework für die Präsentations- und Steuerungsschicht von javabasierten Webanwendungen. Es stammt von der Apache Software Foundation und ist open source. Red Hat JBoss Fuse basiert auf Apache ServiceMix und bietet eine Integrationsplattform. Fuse ESB Enterprise ist eine Integrationsplattform von Red Hat. Sie basiert auf dem Apache ServiceMix und ist als Open Source Software verfügbar. Durch eine Schwachstelle in Apache Struts kann ein entfernter, nicht authentifizierter Angreifer beliebigen Code zur Ausführung bringen. Update: Für die Distribution Fedora 20 steht ein Sicherheitspatch bereit. Schwachstelle CVE-2014-0114 (NVD) Red Hat Security Advisory RHSA-2014:0474-1 Red Hat Security Advisory RHSA-2014:0497 Red Hat Security Advisory RHSA-2014:0498 Red Hat Security Advisory RHSA-2014:0500 SUSE Security Update: SUSE-SU-2014:0902-1 Fedora Security Update FEDORA-2014-9380
+Degree of Danger:  mittel
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Red Hat Security Advisory RHSA-2014:0474-1
+
+
+ ------
+
+ID: Kurzinfo CB-K13/1075 Update 5
+Title: Pixman: Eine Schwachstelle erm&ouml;glicht das Ausf&uuml;hren beliebigen Programmcodes
+Manufactorer: null
+Product Name: Pixman &lt;= 0.30.2
+Product Version: null
+Operating System: SUSE Software Development Kit 11 SP2 Enterprise, SUSE Software Development Kit 11 SP3 Enterprise, Debian Linux 6.0.8 Squeeze, Debian Linux 7.2 Wheezy, openSUSE 12.2, openSUSE 12.3, openSUSE 13.1, SUSE Linux Enterprise Desktop 11 SP2, SUSE Linux Enterprise Desktop 11 SP3, SUSE Linux Enterprise Server 11 SP2, SUSE Linux Enterprise Server 11 SP2 VMware, SUSE Linux Enterprise Server 11 SP3, SUSE Linux Enterprise Server 11 SP3 VMware, Red Hat Enterprise Linux 6 Server, Red Hat Enterprise Linux 6 Workstation, Red Hat Enterprise Linux Desktop 5 Client, Red Hat Enterprise Linux Desktop 6.0, Red Hat Enterprise Linux HPC Node 6.0, Red Hat Fedora 19, Red Hat Fedora 20
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Pixman ist eine Software-Bibliothek in der Sprache C, die Funktionen zur Manipulation von Pixeln zur Verfügung stellt. Eine Schwachstelle ermöglicht einem entfernten, nicht authentifizierten Angreifer einen Denial-of-Service-Zustand zu erreichen oder beliebigen Programmcode auszuführen. Update: Für die Distributionen Fedora 19 und Fedora 20 stehen weitere Sicherheitsupdates bereit, das Update FEDORA-2014-9037 für Fedora 19 ist mittlerweile obsolet. Schwachstelle CVE-2013-6425 (NVD) Debian Security Advisory DSA-2823 Red Hat Security Advisory RHSA-2013-1869 openSUSE-SU-2014:0007-1 (12.3) openSUSE-SU-2014:0011-1 (12.2) openSUSE-SU-2014:0014-1 (13.1) SUSE Security Update SUSE-SU-2014:0023-1 Fedora Security Update FEDORA-2014-6825 Fedora Security Update FEDORA-2014-6829 Fedora Security Update FEDORA-2014-9063 Fedora Security Update FEDORA-2014-9359 Fedora Security Update FEDORA-2014-9399
+Degree of Danger:  hoch
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Debian Security Advisory DSA-2823
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1017
+Title: F5 Networks BIG-IP Protocol Security Module (PSM), OpenSSL: Eine Schwachstelle erm&ouml;glicht Denial-of-Service-Angriffe
+Manufactorer: null
+Product Name: OpenSSL Project OpenSSL &lt;= 0.9.8S, OpenSSL Project OpenSSL &lt;= 1.0.0F
+Product Version: null
+Operating System: F5 Networks BIG-IP Protocol Security Module (PSM) &gt;= 10.0.0, F5 Networks BIG-IP Protocol Security Module (PSM) &lt;= 10.2.4, F5 Networks BIG-IP Protocol Security Module (PSM) &gt;= 11.0.0, F5 Networks BIG-IP Protocol Security Module (PSM) &lt;= 11.4.1
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: OpenSSL ist eine freie Software, die kryptographische Funktionen und Protokolle implementiert. Bestandteil ist auch das TLS-Protokoll (Transport Layer Security). Es wurde ursprünglich als Secure Socket Layer entwickelt und ist immer noch unter dem Namen SSL bekannt. Eine Schwachstelle in OpenSSL ermöglicht einem entfernten und nicht authentisierten Angreifer die Durchführung von Denial-of-Service-Angriffen. Von der Schwachstelle sind alle obigen Big-IP PSM Versionen betroffen, mit Ausnahme der Versionen 11.2.0 bis 11.4.1 sofern das Konfigurationstool genutzt wird. Schwachstelle CVE-2011-4619 (NVD) F5 Networks Security Advisory sol15461
+Degree of Danger:  niedrig
+Cause: null
+Result: Denial-of-Service
+Solution: null
+Reference: F5 Networks Security Advisory sol15461
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1004 Update 2
+Title: Adobe Flash Player und Adobe AIR: Mehrere Schwachstellen erm&ouml;glichen die Ausf&uuml;hrung beliebigen Programmcodes
+Manufactorer: null
+Product Name: Adobe Integrated Runtime (AIR) &lt;= 14.0.0.110, Adobe Integrated Runtime (AIR) &lt;= 14.0.0.137, Adobe Integrated Runtime (AIR) Software Development Kit (SDK) &lt;= 14.0.0.137, Adobe Integrated Runtime (AIR) Software Development Kit (SDK) mit Compiler &lt;= 14.0.0.137, Adobe Flash Player &lt;= 14.0.0.145, Adobe Flash Player for Linux &lt;= 11.2.202.394
+Product Version: null
+Operating System: Apple Mac OS X, GNU/Linux, Google Android Operating System, Microsoft Windows , openSUSE 12.3, openSUSE 13.1, Red Hat Enterprise Linux Desktop Supplementary 5 Client, Red Hat Enterprise Linux Desktop Supplementary 6, Red hat Enterprise Linux Server Supplementary 5, Red hat Enterprise Linux Server Supplementary 6, Red hat Enterprise Linux Server Supplementary 6.5 AUS, Red hat Enterprise Linux Server Supplementary 6.5.Z EUS, Red Hat Enterprise Linux Workstation Supplementary 6
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Mit dem Flash Player werden multimediale aktive Inhalte wiedergegeben. Das Programm ist integraler Bestandteil zahlreicher Adobe Produkte. Adobe Integrated Runtime (AIR) Software Development Kit (SDK) mit Compiler stellt Entwicklungswerkzeuge zur Verfügung, um auf Internettechnologien wie z.B. HTML und Adobe Flash basierende AIR-Anwendungen zu entwickeln. Es wurde von Adobe Integrated Runtime (AIR) Software Development Kit (SDK) umbenannt, nachdem ein Compiler hinzugefügt wurde. Mehrere Schwachstellen in Adobe Flash Player und Adobe AIR ermöglichen einem entfernten, nicht authentifizierten Angreifer beliebigen Programmcode auszuführen, Sicherheitsmechanismen und Zugriffsbeschränkungen zu umgehen. Update: Für openSUSE 12.3 sowie 13.1 stehen Sicherheitsupdates zur Verfügung. Adobe Security Advisory APSB14-18 Red Hat Security Advisory RHSA-2014:1051 Schwachstelle CVE-2014-0538 (NVD) Schwachstelle CVE-2014-0540 (NVD) Schwachstelle CVE-2014-0541 (NVD) Schwachstelle CVE-2014-0542 (NVD) Schwachstelle CVE-2014-0543 (NVD) Schwachstelle CVE-2014-0544 (NVD) Schwachstelle CVE-2014-0545 (NVD) SUSE Security Update: openSUSE-SU-2014:1020-1
+Degree of Danger:  hoch
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes mit Benutzerrechten
+Solution: null
+Reference: Adobe Security Advisory APSB14-18
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0988 Update 1
+Title: OpenSSL: Mehrere Schwachstellen erlauben verschiedene Angriffe
+Manufactorer: null
+Product Name: OpenSSL Project OpenSSL 1.0.1E
+Product Version: null
+Operating System: Red Hat Enterprise Linux Desktop 6, Red Hat Enterprise Linux Desktop 7, Red Hat Enterprise Linux HPC Node 6, Red Hat Enterprise Linux HPC Node 7, Red Hat Enterprise Linux Server 6, Red Hat Enterprise Linux Server 6.5 AUS, Red Hat Enterprise Linux Server 6.5.z EUS, Red Hat Enterprise Linux Server 7, Red Hat Enterprise Linux Workstation 6, Red Hat Enterprise Linux Workstation 7, Red Hat Fedora 19, Red Hat Fedora 20
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: OpenSSL ist eine freie Software, die kryptographische Funktionen und Protokolle implementiert. Bestandteil ist auch das TLS-Protokoll (Transport Layer Security). Es wurde ursprünglich als Secure Socket Layer entwickelt und ist immer noch unter dem Namen SSL bekannt. Mehrere Schwachstellen in OpenSSL ermöglichen einem zumeist entfernten, nicht authentifizierten Angreifer das System in einen Denial-of-Service-Zustand zu versetzen, einen Man-in-the-Middle-Angriff durchzuführen, beliebigen Programmcode zur Ausführung zu bringen oder Informationen auszuspähen. Für Fedora 19 und Fedora 20 stehen Sicherheitsupdates der Version OpenSSL 1.0.1 zur Verfügung, welche die Schwachstellen über Backports behebt. Update: Für verschiedene Red Hat Enterprise Linux 6 und 7 Produkte stehen Sicherheitsupdates für die über Backports korrigierte OpenSSL 1.0.1e Version zur Verfügung. Schwachstelle CVE-2014-3505 (NVD) Schwachstelle CVE-2014-3506 (NVD) Schwachstelle CVE-2014-3507 (NVD) Schwachstelle CVE-2014-3508 (NVD) Schwachstelle CVE-2014-3509 (NVD) Schwachstelle CVE-2014-3510 (NVD) Schwachstelle CVE-2014-3511 (NVD) Fedora Update FEDORA-2014-9301 Fedora Update FEDORA-2014-9308 Red Hat Security Advisory RHSA-2014:1052
+Degree of Danger:  mittel
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Fedora Update FEDORA-2014-9301
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1014
+Title: Puppet Labs Puppet Enterprise: Eine Schwachstelle erm&ouml;glicht das Umgehen von Sicherheitsvorkehrungen
+Manufactorer: null
+Product Name: Puppet Labs MCollective &lt;= 2.5.2, Puppet Enterprise &lt;= 2.8.0, Puppet Enterprise &lt;= 3.2.0
+Product Version: null
+Operating System: Puppet Labs MCollective, Puppet Enterprise
+Date of Creation: Mon Jan 13 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Nein
+Language: de
+Description: Mit dem MCollective Framework von Puppet Labs können parallele Job-Ausführungs- oder Server-Orchestrierungs-Systeme gebaut werden. Puppet Enterprise ist eine Software der Firma Puppet Labs für die automatische Konfiguration und Verteilung von Software sowie Lifecycle Management und Reporting. Die Enterprise Version enthält u.a. Support und ist nur gegen Lizenzgebühren zu erhalten. Durch eine Schwachstelle im MCollective Plugin "aes_security" kann ein lokaler, mehrfach authentifizierter Angreifer Sicherheitsvorkehrungen umgehen. Puppet Labs Security Advisory CVE-2014-3251 Schwachstelle CVE-2014-3251 (NVD)
+Degree of Danger:  niedrig
+Cause: null
+Result: Umgehen von Sicherheitsvorkehrungen
+Solution: null
+Reference: Puppet Labs Security Advisory CVE-2014-3251
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1022
+Title: Apache Subversion: Eine Schwachstelle erm&ouml;glicht Man-in-the-Middle-Angriffe
+Manufactorer: null
+Product Name: Apache Subversion
+Product Version: null
+Operating System: Red Hat Fedora 20
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Apache Subversion (SVN) von der Apache Software Foundation ist eine freie Software zur Versionsverwaltung von Dateien und Verzeichnissen. Eine schwer auszunutzende Schwachstelle bezüglich der Zertifikatsbehandlung in Subversion ermöglicht einem entfernten, nicht authentisierten Angreifer die Durchführung von Man-in-the-Middle-Angriffen. Schwachstelle CVE-2014-3504 (NVD) Fedora Security Update FEDORA-2014-9367
+Degree of Danger:  niedrig
+Cause: null
+Result: Umgehen von Sicherheitsvorkehrungen
+Solution: null
+Reference: Fedora Security Update FEDORA-2014-9367
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1020
+Title: Apache Subversion: Mehrere Schwachstellen erlauben verschiedene Angriffe
+Manufactorer: null
+Product Name: Apache Subversion
+Product Version: null
+Operating System: Canonical Ubuntu Linux 12.04 Lts, Canonical Ubuntu Linux 14.04 Lts
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Apache Subversion (SVN) von der Apache Software Foundation ist eine freie Software zur Versionsverwaltung von Dateien und Verzeichnissen. Es bestehen mehrere Schwachstellen in Apache Subversion, die von einem entfernten, nicht authentisierten Angreifer zumeist mit hohem Aufwand für Man-in-the-Middle-Angriffe und das Ausspähen von Informationen oder das Bewirken eines Denial-of-Service-Zustandes genutzt werden können. Schwachstelle CVE-2014-0032 (NVD) Schwachstelle CVE-2014-3504 (NVD) Schwachstelle CVE-2014-3522 (NVD) Schwachstelle CVE-2014-3528 (NVD) Ubuntu Security Notice USN-2315-1 Ubuntu Security Notice USN-2316-1
+Degree of Danger:  niedrig
+Cause: null
+Result: Denial-of-Service
+Solution: null
+Reference: Ubuntu Security Notice USN-2316-1
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1012 Update 1
+Title: SKS Keyserver: Eine Schwachstelle erm&ouml;glicht Cross-Site-Scripting (XSS)
+Manufactorer: null
+Product Name: SKS Keyserver &lt;= 1.1.4
+Product Version: null
+Operating System: Red Hat Fedora 19, Red Hat Fedora 20, Extra Packages for Red Hat Enterprise Linux 6
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Der SKS Keyserver ist ein öffentlicher Schlüsselserver. Durch eine Schwachstelle im SKS Keyserver kann ein entfernter, nicht authentifizierter Angreifer beliebige Webskripte oder HTML-Code mithilfe von PATH_INFO in "pks/lookup/undefined1" injizieren. Update: Für Fedora 19 und Fedora 20 stehen Sicherheitsupdates zur Verfügung. Schwachstelle CVE-2014-3207 (NVD) Fedora Security Update FEDORA-EPEL-2014-2185 Fedora Security Update FEDORA-2014-9344 Fedora Security Update FEDORA-2014-9350
+Degree of Danger:  niedrig
+Cause: null
+Result: Cross-Site-Scripting
+Solution: null
+Reference: Fedora Security Update FEDORA-EPEL-2014-2185
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0980 Update 1
+Title: GPGME: Eine Schwachstelle erm&ouml;glicht Denial-of-Service-Angriffe und das Ausf&uuml;hren beliebigen Programmcodes
+Manufactorer: null
+Product Name: GNU GPGME &lt;= 1.0
+Product Version: null
+Operating System: Canonical Ubuntu Linux 10.04 Lts, Canonical Ubuntu Linux 12.04 Lts, Canonical Ubuntu Linux 14.04 Lts, Debian Linux 7.6 Wheezy, Debian Linux 8.0 Jessie
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Die Bibliothek GnuPG Made Easy (GPGME) bietet eine High-Level-API für Verschlüsselung, Entschlüsselung, Signierung, Signaturprüfung und Schlüsselverwaltung und soll den Zugriff auf GnuPG für Anwendungen vereinfachen. Ein entfernter, nicht authentifizierter Angreifer kann Anwendungen, die GPGME nutzen, zum Absturz bringen und somit Denial-of-Service-Angriff durchführen oder beliebigen Programmcode zur Ausführung bringen. Update: Für die Distributionen Debian Wheezy und Debian Jessie stehen Sicherheitsupdates bereit. Ubuntu Security Notice USN-2307-1 Schwachstelle CVE-2014-3564 (NVD) Debian Security Advisory DSA-3005-1
+Degree of Danger:  niedrig
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Ubuntu Security Notice USN-2307-1
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0511 Update 1
+Title: fish shell: Mehrere Schwachstellen erm&ouml;glichen Privilegieneskalation sowie Ausf&uuml;hrung beliebigen Programmcodes
+Manufactorer: null
+Product Name: fish shell &gt;= 1.16.0, fish shell &lt;= 2.1.0
+Product Version: null
+Operating System: Red Hat Fedora 19, Red Hat Fedora 20
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Die fish shell (Friendly Interactive Shell) ist eine Kommandozeile mit zusätzliche Features. Es bestehen mehrere Schwachstellen in der fish shell. Lokale sowie entfernte Angreifer können ihre Privilegien ausweiten und beliebigen Programmcode ausführen. Update: Der Hersteller stellt für die Distributionen Fedora 19 und Fedora 20 verbesserte Sicherheitsupdates für die Schwachstellen CVE-2014-2905 und CVE-2014-2914 zur Verfügung. Fedora Update FEDORA-2014-5783 Fedora Update FEDORA-2014-5794 Schwachstelle CVE-2014-2905 (NVD) Schwachstelle CVE-2014-2906 (NVD) Schwachstelle CVE-2014-2914 (NVD) Fedora Security Update FEDORA-2014-9402 Fedora Security Update FEDORA-2014-9407
+Degree of Danger:  niedrig
+Cause: null
+Result: Privilegieneskalation
+Solution: null
+Reference: Fedora Update FEDORA-2014-5783
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1018
+Title: Apple Safari: Mehrere Schwachstellen erlauben das Ausf&uuml;hren beliebigen Programmcodes und Denial-of-Service-Angriffe
+Manufactorer: null
+Product Name: Apple Safari &lt;= 6.1.5, Apple Safari &lt;= 7.0.5
+Product Version: null
+Operating System: Apple Mac OS X 10.7.5, Apple Mac OS X 10.8.5, Apple Mac OS X 10.9.4, Apple Mac OS X Server 10.7.5
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Der Web-Browser Safari wurde von Apple für MAC OS X entwickelt. Mehrere Schwachstellen in WebKit, welches von Apple Safari genutzt wird, erlauben einem entfernten, nicht authentisierten Angreifer die Durchführung von Denial-of-Service-Angriffen sowie die Ausführung beliebigen Programmcodes, sofern es dem Angreifer gelingt, den Benutzer auf eine manipulierte WebSeite zu locken. Apple Security Advisory Apple-ADV-HT6367 Schwachstelle CVE-2014-1384 (NVD) Schwachstelle CVE-2014-1385 (NVD) Schwachstelle CVE-2014-1386 (NVD) Schwachstelle CVE-2014-1387 (NVD) Schwachstelle CVE-2014-1388 (NVD) Schwachstelle CVE-2014-1389 (NVD) Schwachstelle CVE-2014-1390 (NVD)
+Degree of Danger:  niedrig
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Apple Security Advisory Apple-ADV-HT6367
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1016
+Title: OpenSSL: Mehrere Schwachstellen erm&ouml;glichen Denial-of-Service-Angriffe
+Manufactorer: null
+Product Name: OpenSSL Project OpenSSL 0.9.8E
+Product Version: null
+Operating System: Red Hat Enterprise Linux Desktop 5 Client, Red Hat Enterprise Linux Desktop 5 Workstation/Client, Red Hat Enterprise Linux Server 5
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: OpenSSL ist eine freie Software, die kryptographische Funktionen und Protokolle implementiert. Bestandteil ist auch das TLS-Protokoll (Transport Layer Security). Es wurde ursprünglich als Secure Socket Layer entwickelt und ist immer noch unter dem Namen SSL bekannt. Mehrere Schwachstellen in OpenSSL ermöglichen einem entfernten, nicht authentisierten Angreifer die Durchführung von Denial-of-Service-Angriffen. Eine Schwachstelle ermöglicht einem authentisierten Angreifer im benachbarten Netz das Ausspähen von Informationen. Für Red Hat Enterprise Linux 5 stehen Sicherheitsupdates zur Verfügung, welche die Schwachstellen über Backports beheben. Schwachstelle CVE-2014-0221 (NVD) Schwachstelle CVE-2014-3505 (NVD) Schwachstelle CVE-2014-3506 (NVD) Schwachstelle CVE-2014-3508 (NVD) Schwachstelle CVE-2014-3510 (NVD) Red Hat Security Advisory RHSA-2014:1053
+Degree of Danger:  niedrig
+Cause: null
+Result: Denial-of-Service
+Solution: null
+Reference: Red Hat Security Advisory RHSA-2014:1053
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0988 Update 2
+Title: OpenSSL: Mehrere Schwachstellen erlauben verschiedene Angriffe
+Manufactorer: null
+Product Name: OpenSSL Project OpenSSL 1.0.1E
+Product Version: null
+Operating System: Red Hat Enterprise Linux Desktop 6, Red Hat Enterprise Linux Desktop 7, Red Hat Enterprise Linux HPC Node 6, Red Hat Enterprise Linux HPC Node 7, Red Hat Enterprise Linux Server 6, Red Hat Enterprise Linux Server 6.5 AUS, Red Hat Enterprise Linux Server 6.5.z EUS, Red Hat Enterprise Linux Server 7, Red Hat Enterprise Linux Workstation 6, Red Hat Enterprise Linux Workstation 7, Red Hat Fedora 19, Red Hat Fedora 20, Red Hat Storage Server 2.1
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: OpenSSL ist eine freie Software, die kryptographische Funktionen und Protokolle implementiert. Bestandteil ist auch das TLS-Protokoll (Transport Layer Security). Es wurde ursprünglich als Secure Socket Layer entwickelt und ist immer noch unter dem Namen SSL bekannt. Mehrere Schwachstellen in OpenSSL ermöglichen einem zumeist entfernten, nicht authentifizierten Angreifer das System in einen Denial-of-Service-Zustand zu versetzen, einen Man-in-the-Middle-Angriff durchzuführen, beliebigen Programmcode zur Ausführung zu bringen oder Informationen auszuspähen. Für Fedora 19 und Fedora 20 stehen Sicherheitsupdates der Version OpenSSL 1.0.1 zur Verfügung, welche die Schwachstellen über Backports behebt. Update: Für Red Hat Storage Server 2.1 stehen Sicherheitsupdates für die über Backports korrigierte OpenSSL 1.0.1e Version zur Verfügung. Schwachstelle CVE-2014-3505 (NVD) Schwachstelle CVE-2014-3506 (NVD) Schwachstelle CVE-2014-3507 (NVD) Schwachstelle CVE-2014-3508 (NVD) Schwachstelle CVE-2014-3509 (NVD) Schwachstelle CVE-2014-3510 (NVD) Schwachstelle CVE-2014-3511 (NVD) Fedora Update FEDORA-2014-9301 Fedora Update FEDORA-2014-9308 Red Hat Security Advisory RHSA-2014:1052 Red Hat Security Advisory RHSA-2014:1054
+Degree of Danger:  mittel
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Fedora Update FEDORA-2014-9301
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1015
+Title: HP Operations Agent: Eine Schwachstelle erm&ouml;glicht Privilegieneskalation
+Manufactorer: null
+Product Name: Operations Agent 11.0
+Product Version: null
+Operating System: Oracle Solaris, Canonical Ubuntu Linux, CentOS, Debian Linux, HP-UX family of operating systems, IBM AIX, Microsoft Windows , SUSE Linux Enterprise Server, Oracle Linux, Red Hat Enterprise Linux
+Date of Creation: Mon Jan 13 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Nein
+Language: de
+Description: Der HP Operations-Agent ist ein Systemüberwachungstool für virtuelle und physikalische Systeme. Systemressourcen und die Leistungsfähigkeit kann damit überwacht werden. Ein lokaler, authentifizierter Angreifer kann, durch unbekannte Angriffsvektoren, seine Rechte erhöhen. Schwachstelle CVE-2014-2630 (NVD) HP Security Bulletin HPSBMU03086
+Degree of Danger:  niedrig
+Cause: null
+Result: Privilegieneskalation
+Solution: null
+Reference: HP Security Bulletin HPSBMU03086
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1013
+Title: Microsoft Windows: Mehrere Schwachstellen erm&ouml;glichen die &Uuml;bernahme des Systems
+Manufactorer: null
+Product Name: Microsoft .NET Framework 2.0 Sp2, Microsoft .NET Framework 3.0 Sp2, Microsoft .NET Framework 3.5, Microsoft .NET Framework 3.5.1
+Product Version: null
+Operating System: Microsoft Windows 7 Sp1 X64, Microsoft Windows 7 Sp1 X86, Microsoft Windows 8 X64, Microsoft Windows 8 X86, Microsoft Windows 8.1 X64, Microsoft Windows 8.1 X86, Microsoft Windows Server 2003 Sp2, Microsoft Windows Server 2003 Sp2 Itanium, Microsoft Windows Server 2003 Sp2 X64, Microsoft Windows RT, Microsoft Windows RT 8.1, Microsoft Windows Server 2008 Sp2 Itanium, Microsoft Windows Server 2008 Sp2 X64, Microsoft Windows Server 2008 Sp2 X86, Microsoft Windows Server 2008 R2 Sp1 Itanium, Microsoft Windows Server 2008 R2 Sp1 X64, Microsoft Windows Server 2012, Microsoft Windows Server 2012 R2, Microsoft Windows Vista Sp2, Microsoft Windows Vista Sp2 X64
+Date of Creation: Mon Jan 13 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: .NET (dot Net) ist eine Software-Plattform von Microsoft zur Entwicklung und Ausführung von Anwendungsprogrammen. Das Framework besteht aus einer Laufzeitumgebung, in der die Programme ausgeführt werden, einer Sammlung von Klassenbibliotheken, Programmierschnittstellen und Dienstprogrammen. Mehrere Schwachstellen in verschiedenen Windows-Komponenten ermöglichen einem lokal angemeldeten Angreifer Administratorenrechte zu erlangen und damit das Windows-Systems vollständig zu übernehmen. Zusätzlich ist es einem teilweise entfernten und nicht authentifizierten Angreifer möglich, die Ausführung beliebigen Programmcodes, das Ausspähen von Informationen, das Umgehen von Sicherheitsfunktionen oder Denial-of-Service-Angriffe zu bewirken. Microsoft Security Bulletin MS14-043 Microsoft Security Bulletin MS14-045 Microsoft Security Bulletin MS14-046 Microsoft Security Bulletin MS14-047 Microsoft Security Bulletin MS14-049 Schwachstelle CVE-2014-0316 (NVD) Schwachstelle CVE-2014-0318 (NVD) Schwachstelle CVE-2014-1814 (NVD) Schwachstelle CVE-2014-1819 (NVD) Schwachstelle CVE-2014-4060 (NVD) Schwachstelle CVE-2014-4062 (NVD) Schwachstelle CVE-2014-4064 (NVD)
+Degree of Danger:  hoch
+Cause: null
+Result: Erlangen von Administratorrechten
+Solution: null
+Reference: Microsoft Security Bulletin MS14-047
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1023
+Title: WordPress: Mehrere Schwachstelle erm&ouml;glichen Cross-Site-Scripting
+Manufactorer: null
+Product Name: Fisch
+Product Version: null
+Operating System: Debian Linux 7.6 Wheezy
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: WordPress ist ein weit verbreitetes Content Management System für Web-Blogs. Mehrere Schwachstellen in WordPress ermöglichen es einem entfernten, nicht authentisierten Angreifer Informationen auszuspähen, Cross-Site-Request-Forgery Schutzmaßnahmen zu überwinden und Cross-Site-Scripting-Angriffe durchzuführen. Debian Wheezy 7.6 stellt ein Sicherheitsupdate zur Verfügung. Schwachstelle CVE-2014-2053 (NVD) Debian Security Advisory DSA-3001-1 Schwachstelle CVE-2014-5204 (NVD) Schwachstelle CVE-2014-5205 (NVD) Schwachstelle CVE-2014-5240 (NVD)
+Degree of Danger:  niedrig
+Cause: null
+Result: Cross-Site-Scripting
+Solution: null
+Reference: Debian Security Advisory DSA-3001-1
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1021
+Title: JBoss Enterprise Portal Platform: Zwei Schwachstellen erm&ouml;glichen die Ausf&uuml;hrung beliebigen Programmcodes
+Manufactorer: null
+Product Name: RedHat jBoss Enterprise Portal Platform 5.2.2
+Product Version: null
+Operating System: RedHat jBoss Enterprise Portal Platform
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Die JBoss Enterprise Portal Platform (JBoss EPP) ist eine Software zur Entwicklung und zum Betrieb von Webportalen. Zwei Schwachstellen in Komponenten der JBoss Enterprise Portal Platform ermöglichen einem entfernten, nicht authentisierten Angreifer beliebigen Programmcode zur Ausführung zu bringen. Schwachstelle CVE-2013-7285 (NVD) Schwachstelle CVE-2014-0107 (NVD) Red Hat Security Advisory RHSA-2014:1059
+Degree of Danger:  hoch
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Red Hat Security Advisory RHSA-2014:1059
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1019
+Title: Red Hat Fedora: Eine Schwachstelle erm&ouml;glicht vermutlich das Ausf&uuml;hren beliebigen Programmcodes
+Manufactorer: null
+Product Name: Red Hat Fedora 19, Red Hat Fedora 20
+Product Version: null
+Operating System: Red Hat Fedora
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Fedora (vorher Fedora Core) ist eine Linux-Distribution, die aus dem ehemaligen Red Hat Linux (RHL) entstanden ist. Es existiert eine nicht näher beschriebene Schwachstelle im Point-to-Point Protokoll Daemon, die vermutlich von einem entfernten Angreifer genutzt werden kann, um beliebigen Programmcode auszuführen. Red Hat Fedora hat für die Versionen 19 und 20 Sicherheitsupdate bereitgestellt. Fedora Security Update FEDORA-2014-9401 Fedora Security Update FEDORA-2014-9412 Schwachstelle CVE-2014-3158 (NVD)
+Degree of Danger:  mittel
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Fedora Security Update FEDORA-2014-9412
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0982 Update 2
+Title: Red Hat Directory Server: Eine Schwachstelle erm&ouml;glicht das Aussp&auml;hen von Informationen
+Manufactorer: null
+Product Name: Red Hat Directory Server 8.0
+Product Version: null
+Operating System: Red Hat Directory Server, Red Hat Enterprise Linux Desktop 6, Red Hat Enterprise Linux Desktop 7, Red Hat Enterprise Linux HPC Node 6, Red Hat Enterprise Linux HPC Node 7, Red Hat Enterprise Linux Server 6, Red Hat Enterprise Linux Server 6.5 AUS, Red Hat Enterprise Linux Server 6.5.z EUS, Red Hat Enterprise Linux Server 7, Red Hat Enterprise Linux Workstation 6, Red Hat Enterprise Linux Workstation 7, Red Hat Fedora 20, Extra Packages for Red Hat Enterprise Linux 5
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Der 389 Directory Server von Red Hat ist ein LDAPv3 konformer Server, der in der Basisversion den Lightweight Directory Access Protocol (LDAP) Server und Kommandozeilen-Tools für die Server Administration bereitstellt. Ein entfernter, nicht authentisierter Angreifer kann diese Schwachstelle dazu ausnutzen Informationen auszuspähen. Update: Für Fedora 20 steht ein neues Sicherheitsupdate bereit, welches das ursprünglich veröffentlichte Update für Fedora 20 ersetzt. Red Hat Security Advisory RHSA-2014:1031 Red Hat Security Advisory RHSA-2014:1032 Schwachstelle CVE-2014-3562 (NVD) Fedora Security Update FEDORA-EPEL-2014-2184 Fedora Security Update FEDORA-2014-9391
+Degree of Danger:  niedrig
+Cause: null
+Result: Aussp&auml;hen von Informationen
+Solution: null
+Reference: Red Hat Security Advisory RHSA-2014:1032
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0537 Update 3
+Title: Apache Struts: Eine Schwachstelle erm&ouml;glicht das Ausf&uuml;hren beliebigen Programmcodes
+Manufactorer: null
+Product Name: Apache Software Foundation Struts &lt;= 1.3.10, RedHat JBoss Fuse 6.1.0, RedHat Fuse ESB Enterprise 7.1.0
+Product Version: null
+Operating System: SUSE Software Development Kit 11 SP3 Enterprise, SUSE Manager Server, SUSE Manager 1.7 for SLE 11 SP2, Red Hat Network Satellite 5.4, Red Hat Network Satellite 5.5, Red Hat Network Satellite 5.6, Red Hat Enterprise Linux 5 Server, Red Hat Enterprise Linux Desktop 5 Workstation/Client, Red Hat Fedora 20
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Struts ist ein Framework für die Präsentations- und Steuerungsschicht von javabasierten Webanwendungen. Es stammt von der Apache Software Foundation und ist open source. Red Hat JBoss Fuse basiert auf Apache ServiceMix und bietet eine Integrationsplattform. Fuse ESB Enterprise ist eine Integrationsplattform von Red Hat. Sie basiert auf dem Apache ServiceMix und ist als Open Source Software verfügbar. Durch eine Schwachstelle in Apache Struts kann ein entfernter, nicht authentifizierter Angreifer beliebigen Code zur Ausführung bringen. Update: Für die Distribution Fedora 20 steht ein Sicherheitspatch bereit. Schwachstelle CVE-2014-0114 (NVD) Red Hat Security Advisory RHSA-2014:0474-1 Red Hat Security Advisory RHSA-2014:0497 Red Hat Security Advisory RHSA-2014:0498 Red Hat Security Advisory RHSA-2014:0500 SUSE Security Update: SUSE-SU-2014:0902-1 Fedora Security Update FEDORA-2014-9380
+Degree of Danger:  mittel
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Red Hat Security Advisory RHSA-2014:0474-1
+
+
+ ------
+
+ID: Kurzinfo CB-K13/1075 Update 5
+Title: Pixman: Eine Schwachstelle erm&ouml;glicht das Ausf&uuml;hren beliebigen Programmcodes
+Manufactorer: null
+Product Name: Pixman &lt;= 0.30.2
+Product Version: null
+Operating System: SUSE Software Development Kit 11 SP2 Enterprise, SUSE Software Development Kit 11 SP3 Enterprise, Debian Linux 6.0.8 Squeeze, Debian Linux 7.2 Wheezy, openSUSE 12.2, openSUSE 12.3, openSUSE 13.1, SUSE Linux Enterprise Desktop 11 SP2, SUSE Linux Enterprise Desktop 11 SP3, SUSE Linux Enterprise Server 11 SP2, SUSE Linux Enterprise Server 11 SP2 VMware, SUSE Linux Enterprise Server 11 SP3, SUSE Linux Enterprise Server 11 SP3 VMware, Red Hat Enterprise Linux 6 Server, Red Hat Enterprise Linux 6 Workstation, Red Hat Enterprise Linux Desktop 5 Client, Red Hat Enterprise Linux Desktop 6.0, Red Hat Enterprise Linux HPC Node 6.0, Red Hat Fedora 19, Red Hat Fedora 20
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Pixman ist eine Software-Bibliothek in der Sprache C, die Funktionen zur Manipulation von Pixeln zur Verfügung stellt. Eine Schwachstelle ermöglicht einem entfernten, nicht authentifizierten Angreifer einen Denial-of-Service-Zustand zu erreichen oder beliebigen Programmcode auszuführen. Update: Für die Distributionen Fedora 19 und Fedora 20 stehen weitere Sicherheitsupdates bereit, das Update FEDORA-2014-9037 für Fedora 19 ist mittlerweile obsolet. Schwachstelle CVE-2013-6425 (NVD) Debian Security Advisory DSA-2823 Red Hat Security Advisory RHSA-2013-1869 openSUSE-SU-2014:0007-1 (12.3) openSUSE-SU-2014:0011-1 (12.2) openSUSE-SU-2014:0014-1 (13.1) SUSE Security Update SUSE-SU-2014:0023-1 Fedora Security Update FEDORA-2014-6825 Fedora Security Update FEDORA-2014-6829 Fedora Security Update FEDORA-2014-9063 Fedora Security Update FEDORA-2014-9359 Fedora Security Update FEDORA-2014-9399
+Degree of Danger:  hoch
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Debian Security Advisory DSA-2823
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1017
+Title: F5 Networks BIG-IP Protocol Security Module (PSM), OpenSSL: Eine Schwachstelle erm&ouml;glicht Denial-of-Service-Angriffe
+Manufactorer: null
+Product Name: OpenSSL Project OpenSSL &lt;= 0.9.8S, OpenSSL Project OpenSSL &lt;= 1.0.0F
+Product Version: null
+Operating System: F5 Networks BIG-IP Protocol Security Module (PSM) &gt;= 10.0.0, F5 Networks BIG-IP Protocol Security Module (PSM) &lt;= 10.2.4, F5 Networks BIG-IP Protocol Security Module (PSM) &gt;= 11.0.0, F5 Networks BIG-IP Protocol Security Module (PSM) &lt;= 11.4.1
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: OpenSSL ist eine freie Software, die kryptographische Funktionen und Protokolle implementiert. Bestandteil ist auch das TLS-Protokoll (Transport Layer Security). Es wurde ursprünglich als Secure Socket Layer entwickelt und ist immer noch unter dem Namen SSL bekannt. Eine Schwachstelle in OpenSSL ermöglicht einem entfernten und nicht authentisierten Angreifer die Durchführung von Denial-of-Service-Angriffen. Von der Schwachstelle sind alle obigen Big-IP PSM Versionen betroffen, mit Ausnahme der Versionen 11.2.0 bis 11.4.1 sofern das Konfigurationstool genutzt wird. Schwachstelle CVE-2011-4619 (NVD) F5 Networks Security Advisory sol15461
+Degree of Danger:  niedrig
+Cause: null
+Result: Denial-of-Service
+Solution: null
+Reference: F5 Networks Security Advisory sol15461
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1004 Update 2
+Title: Adobe Flash Player und Adobe AIR: Mehrere Schwachstellen erm&ouml;glichen die Ausf&uuml;hrung beliebigen Programmcodes
+Manufactorer: null
+Product Name: Adobe Integrated Runtime (AIR) &lt;= 14.0.0.110, Adobe Integrated Runtime (AIR) &lt;= 14.0.0.137, Adobe Integrated Runtime (AIR) Software Development Kit (SDK) &lt;= 14.0.0.137, Adobe Integrated Runtime (AIR) Software Development Kit (SDK) mit Compiler &lt;= 14.0.0.137, Adobe Flash Player &lt;= 14.0.0.145, Adobe Flash Player for Linux &lt;= 11.2.202.394
+Product Version: null
+Operating System: Apple Mac OS X, GNU/Linux, Google Android Operating System, Microsoft Windows , openSUSE 12.3, openSUSE 13.1, Red Hat Enterprise Linux Desktop Supplementary 5 Client, Red Hat Enterprise Linux Desktop Supplementary 6, Red hat Enterprise Linux Server Supplementary 5, Red hat Enterprise Linux Server Supplementary 6, Red hat Enterprise Linux Server Supplementary 6.5 AUS, Red hat Enterprise Linux Server Supplementary 6.5.Z EUS, Red Hat Enterprise Linux Workstation Supplementary 6
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Mit dem Flash Player werden multimediale aktive Inhalte wiedergegeben. Das Programm ist integraler Bestandteil zahlreicher Adobe Produkte. Adobe Integrated Runtime (AIR) Software Development Kit (SDK) mit Compiler stellt Entwicklungswerkzeuge zur Verfügung, um auf Internettechnologien wie z.B. HTML und Adobe Flash basierende AIR-Anwendungen zu entwickeln. Es wurde von Adobe Integrated Runtime (AIR) Software Development Kit (SDK) umbenannt, nachdem ein Compiler hinzugefügt wurde. Mehrere Schwachstellen in Adobe Flash Player und Adobe AIR ermöglichen einem entfernten, nicht authentifizierten Angreifer beliebigen Programmcode auszuführen, Sicherheitsmechanismen und Zugriffsbeschränkungen zu umgehen. Update: Für openSUSE 12.3 sowie 13.1 stehen Sicherheitsupdates zur Verfügung. Adobe Security Advisory APSB14-18 Red Hat Security Advisory RHSA-2014:1051 Schwachstelle CVE-2014-0538 (NVD) Schwachstelle CVE-2014-0540 (NVD) Schwachstelle CVE-2014-0541 (NVD) Schwachstelle CVE-2014-0542 (NVD) Schwachstelle CVE-2014-0543 (NVD) Schwachstelle CVE-2014-0544 (NVD) Schwachstelle CVE-2014-0545 (NVD) SUSE Security Update: openSUSE-SU-2014:1020-1
+Degree of Danger:  hoch
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes mit Benutzerrechten
+Solution: null
+Reference: Adobe Security Advisory APSB14-18
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0988 Update 1
+Title: OpenSSL: Mehrere Schwachstellen erlauben verschiedene Angriffe
+Manufactorer: null
+Product Name: OpenSSL Project OpenSSL 1.0.1E
+Product Version: null
+Operating System: Red Hat Enterprise Linux Desktop 6, Red Hat Enterprise Linux Desktop 7, Red Hat Enterprise Linux HPC Node 6, Red Hat Enterprise Linux HPC Node 7, Red Hat Enterprise Linux Server 6, Red Hat Enterprise Linux Server 6.5 AUS, Red Hat Enterprise Linux Server 6.5.z EUS, Red Hat Enterprise Linux Server 7, Red Hat Enterprise Linux Workstation 6, Red Hat Enterprise Linux Workstation 7, Red Hat Fedora 19, Red Hat Fedora 20
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: OpenSSL ist eine freie Software, die kryptographische Funktionen und Protokolle implementiert. Bestandteil ist auch das TLS-Protokoll (Transport Layer Security). Es wurde ursprünglich als Secure Socket Layer entwickelt und ist immer noch unter dem Namen SSL bekannt. Mehrere Schwachstellen in OpenSSL ermöglichen einem zumeist entfernten, nicht authentifizierten Angreifer das System in einen Denial-of-Service-Zustand zu versetzen, einen Man-in-the-Middle-Angriff durchzuführen, beliebigen Programmcode zur Ausführung zu bringen oder Informationen auszuspähen. Für Fedora 19 und Fedora 20 stehen Sicherheitsupdates der Version OpenSSL 1.0.1 zur Verfügung, welche die Schwachstellen über Backports behebt. Update: Für verschiedene Red Hat Enterprise Linux 6 und 7 Produkte stehen Sicherheitsupdates für die über Backports korrigierte OpenSSL 1.0.1e Version zur Verfügung. Schwachstelle CVE-2014-3505 (NVD) Schwachstelle CVE-2014-3506 (NVD) Schwachstelle CVE-2014-3507 (NVD) Schwachstelle CVE-2014-3508 (NVD) Schwachstelle CVE-2014-3509 (NVD) Schwachstelle CVE-2014-3510 (NVD) Schwachstelle CVE-2014-3511 (NVD) Fedora Update FEDORA-2014-9301 Fedora Update FEDORA-2014-9308 Red Hat Security Advisory RHSA-2014:1052
+Degree of Danger:  mittel
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Fedora Update FEDORA-2014-9301
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1014
+Title: Puppet Labs Puppet Enterprise: Eine Schwachstelle erm&ouml;glicht das Umgehen von Sicherheitsvorkehrungen
+Manufactorer: null
+Product Name: Puppet Labs MCollective &lt;= 2.5.2, Puppet Enterprise &lt;= 2.8.0, Puppet Enterprise &lt;= 3.2.0
+Product Version: null
+Operating System: Puppet Labs MCollective, Puppet Enterprise
+Date of Creation: Mon Jan 13 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Nein
+Language: de
+Description: Mit dem MCollective Framework von Puppet Labs können parallele Job-Ausführungs- oder Server-Orchestrierungs-Systeme gebaut werden. Puppet Enterprise ist eine Software der Firma Puppet Labs für die automatische Konfiguration und Verteilung von Software sowie Lifecycle Management und Reporting. Die Enterprise Version enthält u.a. Support und ist nur gegen Lizenzgebühren zu erhalten. Durch eine Schwachstelle im MCollective Plugin "aes_security" kann ein lokaler, mehrfach authentifizierter Angreifer Sicherheitsvorkehrungen umgehen. Puppet Labs Security Advisory CVE-2014-3251 Schwachstelle CVE-2014-3251 (NVD)
+Degree of Danger:  niedrig
+Cause: null
+Result: Umgehen von Sicherheitsvorkehrungen
+Solution: null
+Reference: Puppet Labs Security Advisory CVE-2014-3251
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1022
+Title: Apache Subversion: Eine Schwachstelle erm&ouml;glicht Man-in-the-Middle-Angriffe
+Manufactorer: null
+Product Name: Apache Subversion
+Product Version: null
+Operating System: Red Hat Fedora 20
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Apache Subversion (SVN) von der Apache Software Foundation ist eine freie Software zur Versionsverwaltung von Dateien und Verzeichnissen. Eine schwer auszunutzende Schwachstelle bezüglich der Zertifikatsbehandlung in Subversion ermöglicht einem entfernten, nicht authentisierten Angreifer die Durchführung von Man-in-the-Middle-Angriffen. Schwachstelle CVE-2014-3504 (NVD) Fedora Security Update FEDORA-2014-9367
+Degree of Danger:  niedrig
+Cause: null
+Result: Umgehen von Sicherheitsvorkehrungen
+Solution: null
+Reference: Fedora Security Update FEDORA-2014-9367
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1020
+Title: Apache Subversion: Mehrere Schwachstellen erlauben verschiedene Angriffe
+Manufactorer: null
+Product Name: Apache Subversion
+Product Version: null
+Operating System: Canonical Ubuntu Linux 12.04 Lts, Canonical Ubuntu Linux 14.04 Lts
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Apache Subversion (SVN) von der Apache Software Foundation ist eine freie Software zur Versionsverwaltung von Dateien und Verzeichnissen. Es bestehen mehrere Schwachstellen in Apache Subversion, die von einem entfernten, nicht authentisierten Angreifer zumeist mit hohem Aufwand für Man-in-the-Middle-Angriffe und das Ausspähen von Informationen oder das Bewirken eines Denial-of-Service-Zustandes genutzt werden können. Schwachstelle CVE-2014-0032 (NVD) Schwachstelle CVE-2014-3504 (NVD) Schwachstelle CVE-2014-3522 (NVD) Schwachstelle CVE-2014-3528 (NVD) Ubuntu Security Notice USN-2315-1 Ubuntu Security Notice USN-2316-1
+Degree of Danger:  niedrig
+Cause: null
+Result: Denial-of-Service
+Solution: null
+Reference: Ubuntu Security Notice USN-2316-1
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1012 Update 1
+Title: SKS Keyserver: Eine Schwachstelle erm&ouml;glicht Cross-Site-Scripting (XSS)
+Manufactorer: null
+Product Name: SKS Keyserver &lt;= 1.1.4
+Product Version: null
+Operating System: Red Hat Fedora 19, Red Hat Fedora 20, Extra Packages for Red Hat Enterprise Linux 6
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Der SKS Keyserver ist ein öffentlicher Schlüsselserver. Durch eine Schwachstelle im SKS Keyserver kann ein entfernter, nicht authentifizierter Angreifer beliebige Webskripte oder HTML-Code mithilfe von PATH_INFO in "pks/lookup/undefined1" injizieren. Update: Für Fedora 19 und Fedora 20 stehen Sicherheitsupdates zur Verfügung. Schwachstelle CVE-2014-3207 (NVD) Fedora Security Update FEDORA-EPEL-2014-2185 Fedora Security Update FEDORA-2014-9344 Fedora Security Update FEDORA-2014-9350
+Degree of Danger:  niedrig
+Cause: null
+Result: Cross-Site-Scripting
+Solution: null
+Reference: Fedora Security Update FEDORA-EPEL-2014-2185
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0980 Update 1
+Title: GPGME: Eine Schwachstelle erm&ouml;glicht Denial-of-Service-Angriffe und das Ausf&uuml;hren beliebigen Programmcodes
+Manufactorer: null
+Product Name: GNU GPGME &lt;= 1.0
+Product Version: null
+Operating System: Canonical Ubuntu Linux 10.04 Lts, Canonical Ubuntu Linux 12.04 Lts, Canonical Ubuntu Linux 14.04 Lts, Debian Linux 7.6 Wheezy, Debian Linux 8.0 Jessie
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Die Bibliothek GnuPG Made Easy (GPGME) bietet eine High-Level-API für Verschlüsselung, Entschlüsselung, Signierung, Signaturprüfung und Schlüsselverwaltung und soll den Zugriff auf GnuPG für Anwendungen vereinfachen. Ein entfernter, nicht authentifizierter Angreifer kann Anwendungen, die GPGME nutzen, zum Absturz bringen und somit Denial-of-Service-Angriff durchführen oder beliebigen Programmcode zur Ausführung bringen. Update: Für die Distributionen Debian Wheezy und Debian Jessie stehen Sicherheitsupdates bereit. Ubuntu Security Notice USN-2307-1 Schwachstelle CVE-2014-3564 (NVD) Debian Security Advisory DSA-3005-1
+Degree of Danger:  niedrig
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Ubuntu Security Notice USN-2307-1
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0511 Update 1
+Title: fish shell: Mehrere Schwachstellen erm&ouml;glichen Privilegieneskalation sowie Ausf&uuml;hrung beliebigen Programmcodes
+Manufactorer: null
+Product Name: fish shell &gt;= 1.16.0, fish shell &lt;= 2.1.0
+Product Version: null
+Operating System: Red Hat Fedora 19, Red Hat Fedora 20
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Die fish shell (Friendly Interactive Shell) ist eine Kommandozeile mit zusätzliche Features. Es bestehen mehrere Schwachstellen in der fish shell. Lokale sowie entfernte Angreifer können ihre Privilegien ausweiten und beliebigen Programmcode ausführen. Update: Der Hersteller stellt für die Distributionen Fedora 19 und Fedora 20 verbesserte Sicherheitsupdates für die Schwachstellen CVE-2014-2905 und CVE-2014-2914 zur Verfügung. Fedora Update FEDORA-2014-5783 Fedora Update FEDORA-2014-5794 Schwachstelle CVE-2014-2905 (NVD) Schwachstelle CVE-2014-2906 (NVD) Schwachstelle CVE-2014-2914 (NVD) Fedora Security Update FEDORA-2014-9402 Fedora Security Update FEDORA-2014-9407
+Degree of Danger:  niedrig
+Cause: null
+Result: Privilegieneskalation
+Solution: null
+Reference: Fedora Update FEDORA-2014-5783
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1018
+Title: Apple Safari: Mehrere Schwachstellen erlauben das Ausf&uuml;hren beliebigen Programmcodes und Denial-of-Service-Angriffe
+Manufactorer: null
+Product Name: Apple Safari &lt;= 6.1.5, Apple Safari &lt;= 7.0.5
+Product Version: null
+Operating System: Apple Mac OS X 10.7.5, Apple Mac OS X 10.8.5, Apple Mac OS X 10.9.4, Apple Mac OS X Server 10.7.5
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Der Web-Browser Safari wurde von Apple für MAC OS X entwickelt. Mehrere Schwachstellen in WebKit, welches von Apple Safari genutzt wird, erlauben einem entfernten, nicht authentisierten Angreifer die Durchführung von Denial-of-Service-Angriffen sowie die Ausführung beliebigen Programmcodes, sofern es dem Angreifer gelingt, den Benutzer auf eine manipulierte WebSeite zu locken. Apple Security Advisory Apple-ADV-HT6367 Schwachstelle CVE-2014-1384 (NVD) Schwachstelle CVE-2014-1385 (NVD) Schwachstelle CVE-2014-1386 (NVD) Schwachstelle CVE-2014-1387 (NVD) Schwachstelle CVE-2014-1388 (NVD) Schwachstelle CVE-2014-1389 (NVD) Schwachstelle CVE-2014-1390 (NVD)
+Degree of Danger:  niedrig
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Apple Security Advisory Apple-ADV-HT6367
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1016
+Title: OpenSSL: Mehrere Schwachstellen erm&ouml;glichen Denial-of-Service-Angriffe
+Manufactorer: null
+Product Name: OpenSSL Project OpenSSL 0.9.8E
+Product Version: null
+Operating System: Red Hat Enterprise Linux Desktop 5 Client, Red Hat Enterprise Linux Desktop 5 Workstation/Client, Red Hat Enterprise Linux Server 5
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: OpenSSL ist eine freie Software, die kryptographische Funktionen und Protokolle implementiert. Bestandteil ist auch das TLS-Protokoll (Transport Layer Security). Es wurde ursprünglich als Secure Socket Layer entwickelt und ist immer noch unter dem Namen SSL bekannt. Mehrere Schwachstellen in OpenSSL ermöglichen einem entfernten, nicht authentisierten Angreifer die Durchführung von Denial-of-Service-Angriffen. Eine Schwachstelle ermöglicht einem authentisierten Angreifer im benachbarten Netz das Ausspähen von Informationen. Für Red Hat Enterprise Linux 5 stehen Sicherheitsupdates zur Verfügung, welche die Schwachstellen über Backports beheben. Schwachstelle CVE-2014-0221 (NVD) Schwachstelle CVE-2014-3505 (NVD) Schwachstelle CVE-2014-3506 (NVD) Schwachstelle CVE-2014-3508 (NVD) Schwachstelle CVE-2014-3510 (NVD) Red Hat Security Advisory RHSA-2014:1053
+Degree of Danger:  niedrig
+Cause: null
+Result: Denial-of-Service
+Solution: null
+Reference: Red Hat Security Advisory RHSA-2014:1053
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0988 Update 2
+Title: OpenSSL: Mehrere Schwachstellen erlauben verschiedene Angriffe
+Manufactorer: null
+Product Name: OpenSSL Project OpenSSL 1.0.1E
+Product Version: null
+Operating System: Red Hat Enterprise Linux Desktop 6, Red Hat Enterprise Linux Desktop 7, Red Hat Enterprise Linux HPC Node 6, Red Hat Enterprise Linux HPC Node 7, Red Hat Enterprise Linux Server 6, Red Hat Enterprise Linux Server 6.5 AUS, Red Hat Enterprise Linux Server 6.5.z EUS, Red Hat Enterprise Linux Server 7, Red Hat Enterprise Linux Workstation 6, Red Hat Enterprise Linux Workstation 7, Red Hat Fedora 19, Red Hat Fedora 20, Red Hat Storage Server 2.1
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: OpenSSL ist eine freie Software, die kryptographische Funktionen und Protokolle implementiert. Bestandteil ist auch das TLS-Protokoll (Transport Layer Security). Es wurde ursprünglich als Secure Socket Layer entwickelt und ist immer noch unter dem Namen SSL bekannt. Mehrere Schwachstellen in OpenSSL ermöglichen einem zumeist entfernten, nicht authentifizierten Angreifer das System in einen Denial-of-Service-Zustand zu versetzen, einen Man-in-the-Middle-Angriff durchzuführen, beliebigen Programmcode zur Ausführung zu bringen oder Informationen auszuspähen. Für Fedora 19 und Fedora 20 stehen Sicherheitsupdates der Version OpenSSL 1.0.1 zur Verfügung, welche die Schwachstellen über Backports behebt. Update: Für Red Hat Storage Server 2.1 stehen Sicherheitsupdates für die über Backports korrigierte OpenSSL 1.0.1e Version zur Verfügung. Schwachstelle CVE-2014-3505 (NVD) Schwachstelle CVE-2014-3506 (NVD) Schwachstelle CVE-2014-3507 (NVD) Schwachstelle CVE-2014-3508 (NVD) Schwachstelle CVE-2014-3509 (NVD) Schwachstelle CVE-2014-3510 (NVD) Schwachstelle CVE-2014-3511 (NVD) Fedora Update FEDORA-2014-9301 Fedora Update FEDORA-2014-9308 Red Hat Security Advisory RHSA-2014:1052 Red Hat Security Advisory RHSA-2014:1054
+Degree of Danger:  mittel
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Fedora Update FEDORA-2014-9301
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1015
+Title: HP Operations Agent: Eine Schwachstelle erm&ouml;glicht Privilegieneskalation
+Manufactorer: null
+Product Name: Operations Agent 11.0
+Product Version: null
+Operating System: Oracle Solaris, Canonical Ubuntu Linux, CentOS, Debian Linux, HP-UX family of operating systems, IBM AIX, Microsoft Windows , SUSE Linux Enterprise Server, Oracle Linux, Red Hat Enterprise Linux
+Date of Creation: Mon Jan 13 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Nein
+Language: de
+Description: Der HP Operations-Agent ist ein Systemüberwachungstool für virtuelle und physikalische Systeme. Systemressourcen und die Leistungsfähigkeit kann damit überwacht werden. Ein lokaler, authentifizierter Angreifer kann, durch unbekannte Angriffsvektoren, seine Rechte erhöhen. Schwachstelle CVE-2014-2630 (NVD) HP Security Bulletin HPSBMU03086
+Degree of Danger:  niedrig
+Cause: null
+Result: Privilegieneskalation
+Solution: null
+Reference: HP Security Bulletin HPSBMU03086
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1013
+Title: Microsoft Windows: Mehrere Schwachstellen erm&ouml;glichen die &Uuml;bernahme des Systems
+Manufactorer: null
+Product Name: Microsoft .NET Framework 2.0 Sp2, Microsoft .NET Framework 3.0 Sp2, Microsoft .NET Framework 3.5, Microsoft .NET Framework 3.5.1
+Product Version: null
+Operating System: Microsoft Windows 7 Sp1 X64, Microsoft Windows 7 Sp1 X86, Microsoft Windows 8 X64, Microsoft Windows 8 X86, Microsoft Windows 8.1 X64, Microsoft Windows 8.1 X86, Microsoft Windows Server 2003 Sp2, Microsoft Windows Server 2003 Sp2 Itanium, Microsoft Windows Server 2003 Sp2 X64, Microsoft Windows RT, Microsoft Windows RT 8.1, Microsoft Windows Server 2008 Sp2 Itanium, Microsoft Windows Server 2008 Sp2 X64, Microsoft Windows Server 2008 Sp2 X86, Microsoft Windows Server 2008 R2 Sp1 Itanium, Microsoft Windows Server 2008 R2 Sp1 X64, Microsoft Windows Server 2012, Microsoft Windows Server 2012 R2, Microsoft Windows Vista Sp2, Microsoft Windows Vista Sp2 X64
+Date of Creation: Mon Jan 13 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: .NET (dot Net) ist eine Software-Plattform von Microsoft zur Entwicklung und Ausführung von Anwendungsprogrammen. Das Framework besteht aus einer Laufzeitumgebung, in der die Programme ausgeführt werden, einer Sammlung von Klassenbibliotheken, Programmierschnittstellen und Dienstprogrammen. Mehrere Schwachstellen in verschiedenen Windows-Komponenten ermöglichen einem lokal angemeldeten Angreifer Administratorenrechte zu erlangen und damit das Windows-Systems vollständig zu übernehmen. Zusätzlich ist es einem teilweise entfernten und nicht authentifizierten Angreifer möglich, die Ausführung beliebigen Programmcodes, das Ausspähen von Informationen, das Umgehen von Sicherheitsfunktionen oder Denial-of-Service-Angriffe zu bewirken. Microsoft Security Bulletin MS14-043 Microsoft Security Bulletin MS14-045 Microsoft Security Bulletin MS14-046 Microsoft Security Bulletin MS14-047 Microsoft Security Bulletin MS14-049 Schwachstelle CVE-2014-0316 (NVD) Schwachstelle CVE-2014-0318 (NVD) Schwachstelle CVE-2014-1814 (NVD) Schwachstelle CVE-2014-1819 (NVD) Schwachstelle CVE-2014-4060 (NVD) Schwachstelle CVE-2014-4062 (NVD) Schwachstelle CVE-2014-4064 (NVD)
+Degree of Danger:  hoch
+Cause: null
+Result: Erlangen von Administratorrechten
+Solution: null
+Reference: Microsoft Security Bulletin MS14-047
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1023
+Title: WordPress: Mehrere Schwachstelle erm&ouml;glichen Cross-Site-Scripting
+Manufactorer: null
+Product Name: Fisch
+Product Version: null
+Operating System: Debian Linux 7.6 Wheezy
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: WordPress ist ein weit verbreitetes Content Management System für Web-Blogs. Mehrere Schwachstellen in WordPress ermöglichen es einem entfernten, nicht authentisierten Angreifer Informationen auszuspähen, Cross-Site-Request-Forgery Schutzmaßnahmen zu überwinden und Cross-Site-Scripting-Angriffe durchzuführen. Debian Wheezy 7.6 stellt ein Sicherheitsupdate zur Verfügung. Schwachstelle CVE-2014-2053 (NVD) Debian Security Advisory DSA-3001-1 Schwachstelle CVE-2014-5204 (NVD) Schwachstelle CVE-2014-5205 (NVD) Schwachstelle CVE-2014-5240 (NVD)
+Degree of Danger:  niedrig
+Cause: null
+Result: Cross-Site-Scripting
+Solution: null
+Reference: Debian Security Advisory DSA-3001-1
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1021
+Title: JBoss Enterprise Portal Platform: Zwei Schwachstellen erm&ouml;glichen die Ausf&uuml;hrung beliebigen Programmcodes
+Manufactorer: null
+Product Name: RedHat jBoss Enterprise Portal Platform 5.2.2
+Product Version: null
+Operating System: RedHat jBoss Enterprise Portal Platform
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Die JBoss Enterprise Portal Platform (JBoss EPP) ist eine Software zur Entwicklung und zum Betrieb von Webportalen. Zwei Schwachstellen in Komponenten der JBoss Enterprise Portal Platform ermöglichen einem entfernten, nicht authentisierten Angreifer beliebigen Programmcode zur Ausführung zu bringen. Schwachstelle CVE-2013-7285 (NVD) Schwachstelle CVE-2014-0107 (NVD) Red Hat Security Advisory RHSA-2014:1059
+Degree of Danger:  hoch
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Red Hat Security Advisory RHSA-2014:1059
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1019
+Title: Red Hat Fedora: Eine Schwachstelle erm&ouml;glicht vermutlich das Ausf&uuml;hren beliebigen Programmcodes
+Manufactorer: null
+Product Name: Red Hat Fedora 19, Red Hat Fedora 20
+Product Version: null
+Operating System: Red Hat Fedora
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Fedora (vorher Fedora Core) ist eine Linux-Distribution, die aus dem ehemaligen Red Hat Linux (RHL) entstanden ist. Es existiert eine nicht näher beschriebene Schwachstelle im Point-to-Point Protokoll Daemon, die vermutlich von einem entfernten Angreifer genutzt werden kann, um beliebigen Programmcode auszuführen. Red Hat Fedora hat für die Versionen 19 und 20 Sicherheitsupdate bereitgestellt. Fedora Security Update FEDORA-2014-9401 Fedora Security Update FEDORA-2014-9412 Schwachstelle CVE-2014-3158 (NVD)
+Degree of Danger:  mittel
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Fedora Security Update FEDORA-2014-9412
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0982 Update 2
+Title: Red Hat Directory Server: Eine Schwachstelle erm&ouml;glicht das Aussp&auml;hen von Informationen
+Manufactorer: null
+Product Name: Red Hat Directory Server 8.0
+Product Version: null
+Operating System: Red Hat Directory Server, Red Hat Enterprise Linux Desktop 6, Red Hat Enterprise Linux Desktop 7, Red Hat Enterprise Linux HPC Node 6, Red Hat Enterprise Linux HPC Node 7, Red Hat Enterprise Linux Server 6, Red Hat Enterprise Linux Server 6.5 AUS, Red Hat Enterprise Linux Server 6.5.z EUS, Red Hat Enterprise Linux Server 7, Red Hat Enterprise Linux Workstation 6, Red Hat Enterprise Linux Workstation 7, Red Hat Fedora 20, Extra Packages for Red Hat Enterprise Linux 5
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Der 389 Directory Server von Red Hat ist ein LDAPv3 konformer Server, der in der Basisversion den Lightweight Directory Access Protocol (LDAP) Server und Kommandozeilen-Tools für die Server Administration bereitstellt. Ein entfernter, nicht authentisierter Angreifer kann diese Schwachstelle dazu ausnutzen Informationen auszuspähen. Update: Für Fedora 20 steht ein neues Sicherheitsupdate bereit, welches das ursprünglich veröffentlichte Update für Fedora 20 ersetzt. Red Hat Security Advisory RHSA-2014:1031 Red Hat Security Advisory RHSA-2014:1032 Schwachstelle CVE-2014-3562 (NVD) Fedora Security Update FEDORA-EPEL-2014-2184 Fedora Security Update FEDORA-2014-9391
+Degree of Danger:  niedrig
+Cause: null
+Result: Aussp&auml;hen von Informationen
+Solution: null
+Reference: Red Hat Security Advisory RHSA-2014:1032
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0537 Update 3
+Title: Apache Struts: Eine Schwachstelle erm&ouml;glicht das Ausf&uuml;hren beliebigen Programmcodes
+Manufactorer: null
+Product Name: Apache Software Foundation Struts &lt;= 1.3.10, RedHat JBoss Fuse 6.1.0, RedHat Fuse ESB Enterprise 7.1.0
+Product Version: null
+Operating System: SUSE Software Development Kit 11 SP3 Enterprise, SUSE Manager Server, SUSE Manager 1.7 for SLE 11 SP2, Red Hat Network Satellite 5.4, Red Hat Network Satellite 5.5, Red Hat Network Satellite 5.6, Red Hat Enterprise Linux 5 Server, Red Hat Enterprise Linux Desktop 5 Workstation/Client, Red Hat Fedora 20
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Struts ist ein Framework für die Präsentations- und Steuerungsschicht von javabasierten Webanwendungen. Es stammt von der Apache Software Foundation und ist open source. Red Hat JBoss Fuse basiert auf Apache ServiceMix und bietet eine Integrationsplattform. Fuse ESB Enterprise ist eine Integrationsplattform von Red Hat. Sie basiert auf dem Apache ServiceMix und ist als Open Source Software verfügbar. Durch eine Schwachstelle in Apache Struts kann ein entfernter, nicht authentifizierter Angreifer beliebigen Code zur Ausführung bringen. Update: Für die Distribution Fedora 20 steht ein Sicherheitspatch bereit. Schwachstelle CVE-2014-0114 (NVD) Red Hat Security Advisory RHSA-2014:0474-1 Red Hat Security Advisory RHSA-2014:0497 Red Hat Security Advisory RHSA-2014:0498 Red Hat Security Advisory RHSA-2014:0500 SUSE Security Update: SUSE-SU-2014:0902-1 Fedora Security Update FEDORA-2014-9380
+Degree of Danger:  mittel
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Red Hat Security Advisory RHSA-2014:0474-1
+
+
+ ------
+
+ID: Kurzinfo CB-K13/1075 Update 5
+Title: Pixman: Eine Schwachstelle erm&ouml;glicht das Ausf&uuml;hren beliebigen Programmcodes
+Manufactorer: null
+Product Name: Pixman &lt;= 0.30.2
+Product Version: null
+Operating System: SUSE Software Development Kit 11 SP2 Enterprise, SUSE Software Development Kit 11 SP3 Enterprise, Debian Linux 6.0.8 Squeeze, Debian Linux 7.2 Wheezy, openSUSE 12.2, openSUSE 12.3, openSUSE 13.1, SUSE Linux Enterprise Desktop 11 SP2, SUSE Linux Enterprise Desktop 11 SP3, SUSE Linux Enterprise Server 11 SP2, SUSE Linux Enterprise Server 11 SP2 VMware, SUSE Linux Enterprise Server 11 SP3, SUSE Linux Enterprise Server 11 SP3 VMware, Red Hat Enterprise Linux 6 Server, Red Hat Enterprise Linux 6 Workstation, Red Hat Enterprise Linux Desktop 5 Client, Red Hat Enterprise Linux Desktop 6.0, Red Hat Enterprise Linux HPC Node 6.0, Red Hat Fedora 19, Red Hat Fedora 20
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Pixman ist eine Software-Bibliothek in der Sprache C, die Funktionen zur Manipulation von Pixeln zur Verfügung stellt. Eine Schwachstelle ermöglicht einem entfernten, nicht authentifizierten Angreifer einen Denial-of-Service-Zustand zu erreichen oder beliebigen Programmcode auszuführen. Update: Für die Distributionen Fedora 19 und Fedora 20 stehen weitere Sicherheitsupdates bereit, das Update FEDORA-2014-9037 für Fedora 19 ist mittlerweile obsolet. Schwachstelle CVE-2013-6425 (NVD) Debian Security Advisory DSA-2823 Red Hat Security Advisory RHSA-2013-1869 openSUSE-SU-2014:0007-1 (12.3) openSUSE-SU-2014:0011-1 (12.2) openSUSE-SU-2014:0014-1 (13.1) SUSE Security Update SUSE-SU-2014:0023-1 Fedora Security Update FEDORA-2014-6825 Fedora Security Update FEDORA-2014-6829 Fedora Security Update FEDORA-2014-9063 Fedora Security Update FEDORA-2014-9359 Fedora Security Update FEDORA-2014-9399
+Degree of Danger:  hoch
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Debian Security Advisory DSA-2823
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1017
+Title: F5 Networks BIG-IP Protocol Security Module (PSM), OpenSSL: Eine Schwachstelle erm&ouml;glicht Denial-of-Service-Angriffe
+Manufactorer: null
+Product Name: OpenSSL Project OpenSSL &lt;= 0.9.8S, OpenSSL Project OpenSSL &lt;= 1.0.0F
+Product Version: null
+Operating System: F5 Networks BIG-IP Protocol Security Module (PSM) &gt;= 10.0.0, F5 Networks BIG-IP Protocol Security Module (PSM) &lt;= 10.2.4, F5 Networks BIG-IP Protocol Security Module (PSM) &gt;= 11.0.0, F5 Networks BIG-IP Protocol Security Module (PSM) &lt;= 11.4.1
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: OpenSSL ist eine freie Software, die kryptographische Funktionen und Protokolle implementiert. Bestandteil ist auch das TLS-Protokoll (Transport Layer Security). Es wurde ursprünglich als Secure Socket Layer entwickelt und ist immer noch unter dem Namen SSL bekannt. Eine Schwachstelle in OpenSSL ermöglicht einem entfernten und nicht authentisierten Angreifer die Durchführung von Denial-of-Service-Angriffen. Von der Schwachstelle sind alle obigen Big-IP PSM Versionen betroffen, mit Ausnahme der Versionen 11.2.0 bis 11.4.1 sofern das Konfigurationstool genutzt wird. Schwachstelle CVE-2011-4619 (NVD) F5 Networks Security Advisory sol15461
+Degree of Danger:  niedrig
+Cause: null
+Result: Denial-of-Service
+Solution: null
+Reference: F5 Networks Security Advisory sol15461
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1004 Update 2
+Title: Adobe Flash Player und Adobe AIR: Mehrere Schwachstellen erm&ouml;glichen die Ausf&uuml;hrung beliebigen Programmcodes
+Manufactorer: null
+Product Name: Adobe Integrated Runtime (AIR) &lt;= 14.0.0.110, Adobe Integrated Runtime (AIR) &lt;= 14.0.0.137, Adobe Integrated Runtime (AIR) Software Development Kit (SDK) &lt;= 14.0.0.137, Adobe Integrated Runtime (AIR) Software Development Kit (SDK) mit Compiler &lt;= 14.0.0.137, Adobe Flash Player &lt;= 14.0.0.145, Adobe Flash Player for Linux &lt;= 11.2.202.394
+Product Version: null
+Operating System: Apple Mac OS X, GNU/Linux, Google Android Operating System, Microsoft Windows , openSUSE 12.3, openSUSE 13.1, Red Hat Enterprise Linux Desktop Supplementary 5 Client, Red Hat Enterprise Linux Desktop Supplementary 6, Red hat Enterprise Linux Server Supplementary 5, Red hat Enterprise Linux Server Supplementary 6, Red hat Enterprise Linux Server Supplementary 6.5 AUS, Red hat Enterprise Linux Server Supplementary 6.5.Z EUS, Red Hat Enterprise Linux Workstation Supplementary 6
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Mit dem Flash Player werden multimediale aktive Inhalte wiedergegeben. Das Programm ist integraler Bestandteil zahlreicher Adobe Produkte. Adobe Integrated Runtime (AIR) Software Development Kit (SDK) mit Compiler stellt Entwicklungswerkzeuge zur Verfügung, um auf Internettechnologien wie z.B. HTML und Adobe Flash basierende AIR-Anwendungen zu entwickeln. Es wurde von Adobe Integrated Runtime (AIR) Software Development Kit (SDK) umbenannt, nachdem ein Compiler hinzugefügt wurde. Mehrere Schwachstellen in Adobe Flash Player und Adobe AIR ermöglichen einem entfernten, nicht authentifizierten Angreifer beliebigen Programmcode auszuführen, Sicherheitsmechanismen und Zugriffsbeschränkungen zu umgehen. Update: Für openSUSE 12.3 sowie 13.1 stehen Sicherheitsupdates zur Verfügung. Adobe Security Advisory APSB14-18 Red Hat Security Advisory RHSA-2014:1051 Schwachstelle CVE-2014-0538 (NVD) Schwachstelle CVE-2014-0540 (NVD) Schwachstelle CVE-2014-0541 (NVD) Schwachstelle CVE-2014-0542 (NVD) Schwachstelle CVE-2014-0543 (NVD) Schwachstelle CVE-2014-0544 (NVD) Schwachstelle CVE-2014-0545 (NVD) SUSE Security Update: openSUSE-SU-2014:1020-1
+Degree of Danger:  hoch
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes mit Benutzerrechten
+Solution: null
+Reference: Adobe Security Advisory APSB14-18
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0988 Update 1
+Title: OpenSSL: Mehrere Schwachstellen erlauben verschiedene Angriffe
+Manufactorer: null
+Product Name: OpenSSL Project OpenSSL 1.0.1E
+Product Version: null
+Operating System: Red Hat Enterprise Linux Desktop 6, Red Hat Enterprise Linux Desktop 7, Red Hat Enterprise Linux HPC Node 6, Red Hat Enterprise Linux HPC Node 7, Red Hat Enterprise Linux Server 6, Red Hat Enterprise Linux Server 6.5 AUS, Red Hat Enterprise Linux Server 6.5.z EUS, Red Hat Enterprise Linux Server 7, Red Hat Enterprise Linux Workstation 6, Red Hat Enterprise Linux Workstation 7, Red Hat Fedora 19, Red Hat Fedora 20
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: OpenSSL ist eine freie Software, die kryptographische Funktionen und Protokolle implementiert. Bestandteil ist auch das TLS-Protokoll (Transport Layer Security). Es wurde ursprünglich als Secure Socket Layer entwickelt und ist immer noch unter dem Namen SSL bekannt. Mehrere Schwachstellen in OpenSSL ermöglichen einem zumeist entfernten, nicht authentifizierten Angreifer das System in einen Denial-of-Service-Zustand zu versetzen, einen Man-in-the-Middle-Angriff durchzuführen, beliebigen Programmcode zur Ausführung zu bringen oder Informationen auszuspähen. Für Fedora 19 und Fedora 20 stehen Sicherheitsupdates der Version OpenSSL 1.0.1 zur Verfügung, welche die Schwachstellen über Backports behebt. Update: Für verschiedene Red Hat Enterprise Linux 6 und 7 Produkte stehen Sicherheitsupdates für die über Backports korrigierte OpenSSL 1.0.1e Version zur Verfügung. Schwachstelle CVE-2014-3505 (NVD) Schwachstelle CVE-2014-3506 (NVD) Schwachstelle CVE-2014-3507 (NVD) Schwachstelle CVE-2014-3508 (NVD) Schwachstelle CVE-2014-3509 (NVD) Schwachstelle CVE-2014-3510 (NVD) Schwachstelle CVE-2014-3511 (NVD) Fedora Update FEDORA-2014-9301 Fedora Update FEDORA-2014-9308 Red Hat Security Advisory RHSA-2014:1052
+Degree of Danger:  mittel
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Fedora Update FEDORA-2014-9301
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1014
+Title: Puppet Labs Puppet Enterprise: Eine Schwachstelle erm&ouml;glicht das Umgehen von Sicherheitsvorkehrungen
+Manufactorer: null
+Product Name: Puppet Labs MCollective &lt;= 2.5.2, Puppet Enterprise &lt;= 2.8.0, Puppet Enterprise &lt;= 3.2.0
+Product Version: null
+Operating System: Puppet Labs MCollective, Puppet Enterprise
+Date of Creation: Mon Jan 13 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Nein
+Language: de
+Description: Mit dem MCollective Framework von Puppet Labs können parallele Job-Ausführungs- oder Server-Orchestrierungs-Systeme gebaut werden. Puppet Enterprise ist eine Software der Firma Puppet Labs für die automatische Konfiguration und Verteilung von Software sowie Lifecycle Management und Reporting. Die Enterprise Version enthält u.a. Support und ist nur gegen Lizenzgebühren zu erhalten. Durch eine Schwachstelle im MCollective Plugin "aes_security" kann ein lokaler, mehrfach authentifizierter Angreifer Sicherheitsvorkehrungen umgehen. Puppet Labs Security Advisory CVE-2014-3251 Schwachstelle CVE-2014-3251 (NVD)
+Degree of Danger:  niedrig
+Cause: null
+Result: Umgehen von Sicherheitsvorkehrungen
+Solution: null
+Reference: Puppet Labs Security Advisory CVE-2014-3251
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1022
+Title: Apache Subversion: Eine Schwachstelle erm&ouml;glicht Man-in-the-Middle-Angriffe
+Manufactorer: null
+Product Name: Apache Subversion
+Product Version: null
+Operating System: Red Hat Fedora 20
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Apache Subversion (SVN) von der Apache Software Foundation ist eine freie Software zur Versionsverwaltung von Dateien und Verzeichnissen. Eine schwer auszunutzende Schwachstelle bezüglich der Zertifikatsbehandlung in Subversion ermöglicht einem entfernten, nicht authentisierten Angreifer die Durchführung von Man-in-the-Middle-Angriffen. Schwachstelle CVE-2014-3504 (NVD) Fedora Security Update FEDORA-2014-9367
+Degree of Danger:  niedrig
+Cause: null
+Result: Umgehen von Sicherheitsvorkehrungen
+Solution: null
+Reference: Fedora Security Update FEDORA-2014-9367
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1020
+Title: Apache Subversion: Mehrere Schwachstellen erlauben verschiedene Angriffe
+Manufactorer: null
+Product Name: Apache Subversion
+Product Version: null
+Operating System: Canonical Ubuntu Linux 12.04 Lts, Canonical Ubuntu Linux 14.04 Lts
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Apache Subversion (SVN) von der Apache Software Foundation ist eine freie Software zur Versionsverwaltung von Dateien und Verzeichnissen. Es bestehen mehrere Schwachstellen in Apache Subversion, die von einem entfernten, nicht authentisierten Angreifer zumeist mit hohem Aufwand für Man-in-the-Middle-Angriffe und das Ausspähen von Informationen oder das Bewirken eines Denial-of-Service-Zustandes genutzt werden können. Schwachstelle CVE-2014-0032 (NVD) Schwachstelle CVE-2014-3504 (NVD) Schwachstelle CVE-2014-3522 (NVD) Schwachstelle CVE-2014-3528 (NVD) Ubuntu Security Notice USN-2315-1 Ubuntu Security Notice USN-2316-1
+Degree of Danger:  niedrig
+Cause: null
+Result: Denial-of-Service
+Solution: null
+Reference: Ubuntu Security Notice USN-2316-1
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1012 Update 1
+Title: SKS Keyserver: Eine Schwachstelle erm&ouml;glicht Cross-Site-Scripting (XSS)
+Manufactorer: null
+Product Name: SKS Keyserver &lt;= 1.1.4
+Product Version: null
+Operating System: Red Hat Fedora 19, Red Hat Fedora 20, Extra Packages for Red Hat Enterprise Linux 6
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Der SKS Keyserver ist ein öffentlicher Schlüsselserver. Durch eine Schwachstelle im SKS Keyserver kann ein entfernter, nicht authentifizierter Angreifer beliebige Webskripte oder HTML-Code mithilfe von PATH_INFO in "pks/lookup/undefined1" injizieren. Update: Für Fedora 19 und Fedora 20 stehen Sicherheitsupdates zur Verfügung. Schwachstelle CVE-2014-3207 (NVD) Fedora Security Update FEDORA-EPEL-2014-2185 Fedora Security Update FEDORA-2014-9344 Fedora Security Update FEDORA-2014-9350
+Degree of Danger:  niedrig
+Cause: null
+Result: Cross-Site-Scripting
+Solution: null
+Reference: Fedora Security Update FEDORA-EPEL-2014-2185
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0980 Update 1
+Title: GPGME: Eine Schwachstelle erm&ouml;glicht Denial-of-Service-Angriffe und das Ausf&uuml;hren beliebigen Programmcodes
+Manufactorer: null
+Product Name: GNU GPGME &lt;= 1.0
+Product Version: null
+Operating System: Canonical Ubuntu Linux 10.04 Lts, Canonical Ubuntu Linux 12.04 Lts, Canonical Ubuntu Linux 14.04 Lts, Debian Linux 7.6 Wheezy, Debian Linux 8.0 Jessie
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Die Bibliothek GnuPG Made Easy (GPGME) bietet eine High-Level-API für Verschlüsselung, Entschlüsselung, Signierung, Signaturprüfung und Schlüsselverwaltung und soll den Zugriff auf GnuPG für Anwendungen vereinfachen. Ein entfernter, nicht authentifizierter Angreifer kann Anwendungen, die GPGME nutzen, zum Absturz bringen und somit Denial-of-Service-Angriff durchführen oder beliebigen Programmcode zur Ausführung bringen. Update: Für die Distributionen Debian Wheezy und Debian Jessie stehen Sicherheitsupdates bereit. Ubuntu Security Notice USN-2307-1 Schwachstelle CVE-2014-3564 (NVD) Debian Security Advisory DSA-3005-1
+Degree of Danger:  niedrig
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Ubuntu Security Notice USN-2307-1
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0511 Update 1
+Title: fish shell: Mehrere Schwachstellen erm&ouml;glichen Privilegieneskalation sowie Ausf&uuml;hrung beliebigen Programmcodes
+Manufactorer: null
+Product Name: fish shell &gt;= 1.16.0, fish shell &lt;= 2.1.0
+Product Version: null
+Operating System: Red Hat Fedora 19, Red Hat Fedora 20
+Date of Creation: Wed Jan 15 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Die fish shell (Friendly Interactive Shell) ist eine Kommandozeile mit zusätzliche Features. Es bestehen mehrere Schwachstellen in der fish shell. Lokale sowie entfernte Angreifer können ihre Privilegien ausweiten und beliebigen Programmcode ausführen. Update: Der Hersteller stellt für die Distributionen Fedora 19 und Fedora 20 verbesserte Sicherheitsupdates für die Schwachstellen CVE-2014-2905 und CVE-2014-2914 zur Verfügung. Fedora Update FEDORA-2014-5783 Fedora Update FEDORA-2014-5794 Schwachstelle CVE-2014-2905 (NVD) Schwachstelle CVE-2014-2906 (NVD) Schwachstelle CVE-2014-2914 (NVD) Fedora Security Update FEDORA-2014-9402 Fedora Security Update FEDORA-2014-9407
+Degree of Danger:  niedrig
+Cause: null
+Result: Privilegieneskalation
+Solution: null
+Reference: Fedora Update FEDORA-2014-5783
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1018
+Title: Apple Safari: Mehrere Schwachstellen erlauben das Ausf&uuml;hren beliebigen Programmcodes und Denial-of-Service-Angriffe
+Manufactorer: null
+Product Name: Apple Safari &lt;= 6.1.5, Apple Safari &lt;= 7.0.5
+Product Version: null
+Operating System: Apple Mac OS X 10.7.5, Apple Mac OS X 10.8.5, Apple Mac OS X 10.9.4, Apple Mac OS X Server 10.7.5
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: Der Web-Browser Safari wurde von Apple für MAC OS X entwickelt. Mehrere Schwachstellen in WebKit, welches von Apple Safari genutzt wird, erlauben einem entfernten, nicht authentisierten Angreifer die Durchführung von Denial-of-Service-Angriffen sowie die Ausführung beliebigen Programmcodes, sofern es dem Angreifer gelingt, den Benutzer auf eine manipulierte WebSeite zu locken. Apple Security Advisory Apple-ADV-HT6367 Schwachstelle CVE-2014-1384 (NVD) Schwachstelle CVE-2014-1385 (NVD) Schwachstelle CVE-2014-1386 (NVD) Schwachstelle CVE-2014-1387 (NVD) Schwachstelle CVE-2014-1388 (NVD) Schwachstelle CVE-2014-1389 (NVD) Schwachstelle CVE-2014-1390 (NVD)
+Degree of Danger:  niedrig
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Apple Security Advisory Apple-ADV-HT6367
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1016
+Title: OpenSSL: Mehrere Schwachstellen erm&ouml;glichen Denial-of-Service-Angriffe
+Manufactorer: null
+Product Name: OpenSSL Project OpenSSL 0.9.8E
+Product Version: null
+Operating System: Red Hat Enterprise Linux Desktop 5 Client, Red Hat Enterprise Linux Desktop 5 Workstation/Client, Red Hat Enterprise Linux Server 5
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: OpenSSL ist eine freie Software, die kryptographische Funktionen und Protokolle implementiert. Bestandteil ist auch das TLS-Protokoll (Transport Layer Security). Es wurde ursprünglich als Secure Socket Layer entwickelt und ist immer noch unter dem Namen SSL bekannt. Mehrere Schwachstellen in OpenSSL ermöglichen einem entfernten, nicht authentisierten Angreifer die Durchführung von Denial-of-Service-Angriffen. Eine Schwachstelle ermöglicht einem authentisierten Angreifer im benachbarten Netz das Ausspähen von Informationen. Für Red Hat Enterprise Linux 5 stehen Sicherheitsupdates zur Verfügung, welche die Schwachstellen über Backports beheben. Schwachstelle CVE-2014-0221 (NVD) Schwachstelle CVE-2014-3505 (NVD) Schwachstelle CVE-2014-3506 (NVD) Schwachstelle CVE-2014-3508 (NVD) Schwachstelle CVE-2014-3510 (NVD) Red Hat Security Advisory RHSA-2014:1053
+Degree of Danger:  niedrig
+Cause: null
+Result: Denial-of-Service
+Solution: null
+Reference: Red Hat Security Advisory RHSA-2014:1053
+
+
+ ------
+
+ID: Kurzinfo CB-K14/0988 Update 2
+Title: OpenSSL: Mehrere Schwachstellen erlauben verschiedene Angriffe
+Manufactorer: null
+Product Name: OpenSSL Project OpenSSL 1.0.1E
+Product Version: null
+Operating System: Red Hat Enterprise Linux Desktop 6, Red Hat Enterprise Linux Desktop 7, Red Hat Enterprise Linux HPC Node 6, Red Hat Enterprise Linux HPC Node 7, Red Hat Enterprise Linux Server 6, Red Hat Enterprise Linux Server 6.5 AUS, Red Hat Enterprise Linux Server 6.5.z EUS, Red Hat Enterprise Linux Server 7, Red Hat Enterprise Linux Workstation 6, Red Hat Enterprise Linux Workstation 7, Red Hat Fedora 19, Red Hat Fedora 20, Red Hat Storage Server 2.1
+Date of Creation: Tue Jan 14 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: OpenSSL ist eine freie Software, die kryptographische Funktionen und Protokolle implementiert. Bestandteil ist auch das TLS-Protokoll (Transport Layer Security). Es wurde ursprünglich als Secure Socket Layer entwickelt und ist immer noch unter dem Namen SSL bekannt. Mehrere Schwachstellen in OpenSSL ermöglichen einem zumeist entfernten, nicht authentifizierten Angreifer das System in einen Denial-of-Service-Zustand zu versetzen, einen Man-in-the-Middle-Angriff durchzuführen, beliebigen Programmcode zur Ausführung zu bringen oder Informationen auszuspähen. Für Fedora 19 und Fedora 20 stehen Sicherheitsupdates der Version OpenSSL 1.0.1 zur Verfügung, welche die Schwachstellen über Backports behebt. Update: Für Red Hat Storage Server 2.1 stehen Sicherheitsupdates für die über Backports korrigierte OpenSSL 1.0.1e Version zur Verfügung. Schwachstelle CVE-2014-3505 (NVD) Schwachstelle CVE-2014-3506 (NVD) Schwachstelle CVE-2014-3507 (NVD) Schwachstelle CVE-2014-3508 (NVD) Schwachstelle CVE-2014-3509 (NVD) Schwachstelle CVE-2014-3510 (NVD) Schwachstelle CVE-2014-3511 (NVD) Fedora Update FEDORA-2014-9301 Fedora Update FEDORA-2014-9308 Red Hat Security Advisory RHSA-2014:1052 Red Hat Security Advisory RHSA-2014:1054
+Degree of Danger:  mittel
+Cause: null
+Result: Ausf&uuml;hren beliebigen Programmcodes
+Solution: null
+Reference: Fedora Update FEDORA-2014-9301
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1015
+Title: HP Operations Agent: Eine Schwachstelle erm&ouml;glicht Privilegieneskalation
+Manufactorer: null
+Product Name: Operations Agent 11.0
+Product Version: null
+Operating System: Oracle Solaris, Canonical Ubuntu Linux, CentOS, Debian Linux, HP-UX family of operating systems, IBM AIX, Microsoft Windows , SUSE Linux Enterprise Server, Oracle Linux, Red Hat Enterprise Linux
+Date of Creation: Mon Jan 13 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Nein
+Language: de
+Description: Der HP Operations-Agent ist ein Systemüberwachungstool für virtuelle und physikalische Systeme. Systemressourcen und die Leistungsfähigkeit kann damit überwacht werden. Ein lokaler, authentifizierter Angreifer kann, durch unbekannte Angriffsvektoren, seine Rechte erhöhen. Schwachstelle CVE-2014-2630 (NVD) HP Security Bulletin HPSBMU03086
+Degree of Danger:  niedrig
+Cause: null
+Result: Privilegieneskalation
+Solution: null
+Reference: HP Security Bulletin HPSBMU03086
+
+
+ ------
+
+ID: Kurzinfo CB-K14/1013
+Title: Microsoft Windows: Mehrere Schwachstellen erm&ouml;glichen die &Uuml;bernahme des Systems
+Manufactorer: null
+Product Name: Microsoft .NET Framework 2.0 Sp2, Microsoft .NET Framework 3.0 Sp2, Microsoft .NET Framework 3.5, Microsoft .NET Framework 3.5.1
+Product Version: null
+Operating System: Microsoft Windows 7 Sp1 X64, Microsoft Windows 7 Sp1 X86, Microsoft Windows 8 X64, Microsoft Windows 8 X86, Microsoft Windows 8.1 X64, Microsoft Windows 8.1 X86, Microsoft Windows Server 2003 Sp2, Microsoft Windows Server 2003 Sp2 Itanium, Microsoft Windows Server 2003 Sp2 X64, Microsoft Windows RT, Microsoft Windows RT 8.1, Microsoft Windows Server 2008 Sp2 Itanium, Microsoft Windows Server 2008 Sp2 X64, Microsoft Windows Server 2008 Sp2 X86, Microsoft Windows Server 2008 R2 Sp1 Itanium, Microsoft Windows Server 2008 R2 Sp1 X64, Microsoft Windows Server 2012, Microsoft Windows Server 2012 R2, Microsoft Windows Vista Sp2, Microsoft Windows Vista Sp2 X64
+Date of Creation: Mon Jan 13 00:08:00 CET 2014
+Date of the last Update: null
+Type: Remoteangriff: Ja
+Language: de
+Description: .NET (dot Net) ist eine Software-Plattform von Microsoft zur Entwicklung und Ausführung von Anwendungsprogrammen. Das Framework besteht aus einer Laufzeitumgebung, in der die Programme ausgeführt werden, einer Sammlung von Klassenbibliotheken, Programmierschnittstellen und Dienstprogrammen. Mehrere Schwachstellen in verschiedenen Windows-Komponenten ermöglichen einem lokal angemeldeten Angreifer Administratorenrechte zu erlangen und damit das Windows-Systems vollständig zu übernehmen. Zusätzlich ist es einem teilweise entfernten und nicht authentifizierten Angreifer möglich, die Ausführung beliebigen Programmcodes, das Ausspähen von Informationen, das Umgehen von Sicherheitsfunktionen oder Denial-of-Service-Angriffe zu bewirken. Microsoft Security Bulletin MS14-043 Microsoft Security Bulletin MS14-045 Microsoft Security Bulletin MS14-046 Microsoft Security Bulletin MS14-047 Microsoft Security Bulletin MS14-049 Schwachstelle CVE-2014-0316 (NVD) Schwachstelle CVE-2014-0318 (NVD) Schwachstelle CVE-2014-1814 (NVD) Schwachstelle CVE-2014-1819 (NVD) Schwachstelle CVE-2014-4060 (NVD) Schwachstelle CVE-2014-4062 (NVD) Schwachstelle CVE-2014-4064 (NVD)
+Degree of Danger:  hoch
+Cause: null
+Result: Erlangen von Administratorrechten
+Solution: null
+Reference: Microsoft Security Bulletin MS14-047
+
+
+ ------
+
+
